@@ -1,6 +1,6 @@
 {
   "month": "2026-07",
-  "started_at": "2026-09-19T09:48:38.038160+00:00",
+  "started_at": "2026-09-19T12:09:07.304681+00:00",
   "forces_total": 44,
   "forces_with_geo": 44,
   "forces_succeeded": [
@@ -20,6 +20,7 @@
     "greater-manchester",
     "gwent",
     "hampshire",
+    "dyfed-powys",
     "hertfordshire",
     "humberside",
     "kent",
@@ -32,6 +33,7 @@
     "north-wales",
     "north-yorkshire",
     "northamptonshire",
+    "northumbria",
     "nottinghamshire",
     "northern-ireland",
     "south-wales",
@@ -47,32 +49,29 @@
     "west-yorkshire",
     "wiltshire"
   ],
-  "forces_failed": [
-    "dyfed-powys",
-    "northumbria"
-  ],
+  "forces_failed": [],
   "forces_skipped_no_geo": [],
   "errors": [
     {
       "stage": "crimes",
       "force": "dyfed-powys",
-      "error": "POST https://data.police.uk/api/crimes-street/all-crime failed after 4 attempts: None"
+      "error": "One or more boundary polygons exceeded the API's per-request crime cap (503); coverage is incomplete for this force/month."
     },
     {
       "stage": "stop_and_search",
       "force": "dyfed-powys",
-      "error": "POST https://data.police.uk/api/stops-street failed after 4 attempts: None"
+      "error": "One or more boundary polygons exceeded the API's per-request cap (503); coverage is incomplete for this force/month."
     },
     {
       "stage": "crimes",
       "force": "northumbria",
-      "error": "POST https://data.police.uk/api/crimes-street/all-crime failed after 4 attempts: None"
+      "error": "One or more boundary polygons exceeded the API's per-request crime cap (503); coverage is incomplete for this force/month."
     },
     {
       "stage": "stop_and_search",
       "force": "northumbria",
-      "error": "POST https://data.police.uk/api/stops-street failed after 4 attempts: None"
+      "error": "One or more boundary polygons exceeded the API's per-request cap (503); coverage is incomplete for this force/month."
     }
   ],
-  "finished_at": "2026-09-19T10:06:37.654902+00:00"
+  "finished_at": "2026-09-19T12:29:25.356911+00:00"
 }

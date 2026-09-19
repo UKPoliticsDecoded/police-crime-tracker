@@ -8641,32 +8641,32 @@
     },
     {
       "month": "2026-07",
-      "national_crime_count": 522445,
+      "national_crime_count": 539947,
       "national_crime_categories": {
-        "anti-social-behaviour": 94477,
-        "bicycle-theft": 4973,
-        "burglary": 16631,
-        "criminal-damage-arson": 33023,
-        "drugs": 14716,
-        "other-theft": 34475,
-        "possession-of-weapons": 5123,
-        "public-order": 37868,
-        "robbery": 7305,
-        "shoplifting": 44635,
-        "theft-from-the-person": 8017,
-        "vehicle-crime": 24354,
-        "violent-crime": 186151,
-        "other-crime": 10697
+        "anti-social-behaviour": 97905,
+        "bicycle-theft": 5093,
+        "burglary": 17275,
+        "criminal-damage-arson": 34534,
+        "drugs": 15030,
+        "other-theft": 35360,
+        "possession-of-weapons": 5261,
+        "public-order": 39210,
+        "robbery": 7502,
+        "shoplifting": 46856,
+        "theft-from-the-person": 8134,
+        "vehicle-crime": 24975,
+        "violent-crime": 191693,
+        "other-crime": 11119
       },
-      "national_stop_and_search_count": 31030,
-      "national_crime_rate_per_1000": 8.446,
+      "national_stop_and_search_count": 31490,
+      "national_crime_rate_per_1000": 8.451,
       "methodology": "full-force-boundary",
       "coverage_mix": {
         "full-force-boundary": 44
       },
       "forces_total": 44,
-      "forces_succeeded": 42,
-      "forces_failed": 2,
+      "forces_succeeded": 44,
+      "forces_failed": 0,
       "per_force": {
         "avon-and-somerset": {
           "crime_count": 16232,
@@ -8749,9 +8749,9 @@
           "crime_rate_per_1000": 8.02
         },
         "dyfed-powys": {
-          "crime_count": null,
-          "stop_and_search_count": null,
-          "crime_rate_per_1000": null
+          "crime_count": 4179,
+          "stop_and_search_count": 0,
+          "crime_rate_per_1000": 7.984
         },
         "hertfordshire": {
           "crime_count": 10317,
@@ -8814,9 +8814,9 @@
           "crime_rate_per_1000": 8.8
         },
         "northumbria": {
-          "crime_count": null,
-          "stop_and_search_count": null,
-          "crime_rate_per_1000": null
+          "crime_count": 13334,
+          "stop_and_search_count": 460,
+          "crime_rate_per_1000": 8.824
         },
         "nottinghamshire": {
           "crime_count": 11908,
@@ -8889,7 +8889,7 @@
           "crime_rate_per_1000": 6.321
         }
       },
-      "rolling_12mo_crime_count": 5551885,
+      "rolling_12mo_crime_count": 5569387,
       "rolling_window_months": 12
     }
   ],
