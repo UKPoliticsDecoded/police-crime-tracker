@@ -1,6 +1,7 @@
 {
   "months": [
     "2023-09",
+    "2023-10",
     "2026-07"
   ],
   "series": [
@@ -258,6 +259,259 @@
       "rolling_window_months": 1
     },
     {
+      "month": "2023-10",
+      "national_crime_count": 484889,
+      "national_crime_categories": {
+        "anti-social-behaviour": 78947,
+        "bicycle-theft": 6039,
+        "burglary": 20865,
+        "criminal-damage-arson": 38116,
+        "drugs": 12772,
+        "other-theft": 37625,
+        "possession-of-weapons": 4185,
+        "public-order": 34765,
+        "robbery": 5951,
+        "shoplifting": 34877,
+        "theft-from-the-person": 8990,
+        "vehicle-crime": 30997,
+        "violent-crime": 162368,
+        "other-crime": 8392
+      },
+      "national_stop_and_search_count": 37787,
+      "national_crime_rate_per_1000": 7.945,
+      "methodology": "full-force-boundary",
+      "coverage_mix": {
+        "full-force-boundary": 44
+      },
+      "forces_total": 44,
+      "forces_succeeded": 42,
+      "forces_failed": 2,
+      "per_force": {
+        "avon-and-somerset": {
+          "crime_count": 13788,
+          "stop_and_search_count": 477,
+          "crime_rate_per_1000": 7.697
+        },
+        "bedfordshire": {
+          "crime_count": 5077,
+          "stop_and_search_count": 322,
+          "crime_rate_per_1000": 6.907
+        },
+        "cambridgeshire": {
+          "crime_count": 6845,
+          "stop_and_search_count": 260,
+          "crime_rate_per_1000": 7.4
+        },
+        "cheshire": {
+          "crime_count": 7053,
+          "stop_and_search_count": 1126,
+          "crime_rate_per_1000": 6.27
+        },
+        "city-of-london": {
+          "crime_count": 888,
+          "stop_and_search_count": 185,
+          "crime_rate_per_1000": null
+        },
+        "cleveland": {
+          "crime_count": 8175,
+          "stop_and_search_count": 723,
+          "crime_rate_per_1000": 13.854
+        },
+        "cumbria": {
+          "crime_count": 3410,
+          "stop_and_search_count": 743,
+          "crime_rate_per_1000": 6.735
+        },
+        "derbyshire": {
+          "crime_count": 8664,
+          "stop_and_search_count": 478,
+          "crime_rate_per_1000": 8.002
+        },
+        "devon-and-cornwall": {
+          "crime_count": 6974,
+          "stop_and_search_count": 511,
+          "crime_rate_per_1000": 3.82
+        },
+        "dorset": {
+          "crime_count": 5281,
+          "stop_and_search_count": 161,
+          "crime_rate_per_1000": 6.66
+        },
+        "durham": {
+          "crime_count": 6607,
+          "stop_and_search_count": 295,
+          "crime_rate_per_1000": 10.258
+        },
+        "essex": {
+          "crime_count": 14854,
+          "stop_and_search_count": 1657,
+          "crime_rate_per_1000": 7.806
+        },
+        "gloucestershire": {
+          "crime_count": 5185,
+          "stop_and_search_count": 194,
+          "crime_rate_per_1000": 7.839
+        },
+        "greater-manchester": {
+          "crime_count": 92,
+          "stop_and_search_count": 94,
+          "crime_rate_per_1000": 0.031
+        },
+        "gwent": {
+          "crime_count": 6160,
+          "stop_and_search_count": 3,
+          "crime_rate_per_1000": 10.316
+        },
+        "hampshire": {
+          "crime_count": 14474,
+          "stop_and_search_count": 914,
+          "crime_rate_per_1000": 7.072
+        },
+        "dyfed-powys": {
+          "crime_count": null,
+          "stop_and_search_count": null,
+          "crime_rate_per_1000": null
+        },
+        "hertfordshire": {
+          "crime_count": 8737,
+          "stop_and_search_count": 546,
+          "crime_rate_per_1000": 7.157
+        },
+        "humberside": {
+          "crime_count": 8612,
+          "stop_and_search_count": 237,
+          "crime_rate_per_1000": 9.031
+        },
+        "kent": {
+          "crime_count": 16281,
+          "stop_and_search_count": 1199,
+          "crime_rate_per_1000": 8.537
+        },
+        "lancashire": {
+          "crime_count": 15330,
+          "stop_and_search_count": 1046,
+          "crime_rate_per_1000": 9.732
+        },
+        "leicestershire": {
+          "crime_count": 8824,
+          "stop_and_search_count": 525,
+          "crime_rate_per_1000": 7.624
+        },
+        "lincolnshire": {
+          "crime_count": 5677,
+          "stop_and_search_count": 325,
+          "crime_rate_per_1000": 7.225
+        },
+        "merseyside": {
+          "crime_count": 13501,
+          "stop_and_search_count": 4011,
+          "crime_rate_per_1000": 9.264
+        },
+        "metropolitan": {
+          "crime_count": 93937,
+          "stop_and_search_count": 11347,
+          "crime_rate_per_1000": 10.377
+        },
+        "norfolk": {
+          "crime_count": 5756,
+          "stop_and_search_count": 233,
+          "crime_rate_per_1000": 6.161
+        },
+        "north-wales": {
+          "crime_count": 5859,
+          "stop_and_search_count": 225,
+          "crime_rate_per_1000": 8.447
+        },
+        "north-yorkshire": {
+          "crime_count": 5446,
+          "stop_and_search_count": 18,
+          "crime_rate_per_1000": 6.528
+        },
+        "northamptonshire": {
+          "crime_count": 6070,
+          "stop_and_search_count": 356,
+          "crime_rate_per_1000": 7.515
+        },
+        "northumbria": {
+          "crime_count": null,
+          "stop_and_search_count": null,
+          "crime_rate_per_1000": null
+        },
+        "nottinghamshire": {
+          "crime_count": 10983,
+          "stop_and_search_count": 445,
+          "crime_rate_per_1000": 9.36
+        },
+        "northern-ireland": {
+          "crime_count": 12943,
+          "stop_and_search_count": 14,
+          "crime_rate_per_1000": 6.812
+        },
+        "south-wales": {
+          "crime_count": 12231,
+          "stop_and_search_count": 384,
+          "crime_rate_per_1000": 9.048
+        },
+        "south-yorkshire": {
+          "crime_count": 14650,
+          "stop_and_search_count": 60,
+          "crime_rate_per_1000": 10.373
+        },
+        "staffordshire": {
+          "crime_count": 8449,
+          "stop_and_search_count": 413,
+          "crime_rate_per_1000": 7.262
+        },
+        "suffolk": {
+          "crime_count": 4367,
+          "stop_and_search_count": 203,
+          "crime_rate_per_1000": 5.612
+        },
+        "surrey": {
+          "crime_count": 8054,
+          "stop_and_search_count": 1530,
+          "crime_rate_per_1000": 6.514
+        },
+        "sussex": {
+          "crime_count": 13526,
+          "stop_and_search_count": 584,
+          "crime_rate_per_1000": 7.758
+        },
+        "thames-valley": {
+          "crime_count": 16968,
+          "stop_and_search_count": 1385,
+          "crime_rate_per_1000": 6.517
+        },
+        "warwickshire": {
+          "crime_count": 4001,
+          "stop_and_search_count": 8,
+          "crime_rate_per_1000": 6.44
+        },
+        "west-mercia": {
+          "crime_count": 9329,
+          "stop_and_search_count": 344,
+          "crime_rate_per_1000": 7.023
+        },
+        "west-midlands": {
+          "crime_count": 30986,
+          "stop_and_search_count": 2463,
+          "crime_rate_per_1000": 10.356
+        },
+        "west-yorkshire": {
+          "crime_count": 27474,
+          "stop_and_search_count": 1608,
+          "crime_rate_per_1000": 11.43
+        },
+        "wiltshire": {
+          "crime_count": 4379,
+          "stop_and_search_count": 135,
+          "crime_rate_per_1000": 5.762
+        }
+      },
+      "rolling_12mo_crime_count": 969155,
+      "rolling_window_months": 2
+    },
+    {
       "month": "2026-07",
       "national_crime_count": null,
       "national_crime_categories": null,
@@ -490,8 +744,8 @@
           "crime_rate_per_1000": null
         }
       },
-      "rolling_12mo_crime_count": 484266,
-      "rolling_window_months": 1
+      "rolling_12mo_crime_count": 969155,
+      "rolling_window_months": 2
     }
   ],
   "notes": "national_crime_count figures are de-duplicated by persistent_id across forces; see each month's summary.json 'national' block for details. Check each entry's 'methodology' field before comparing months on a trend chart: 'full-force-boundary' means every force was queried using its real boundary that month; 'mixed' means at least one force (e.g. btp, which has no fixed geographic area) fell back to a 1-mile HQ-radius sample instead. A change in methodology between two months is a change in measurement approach, not necessarily a real change in crime. 'rolling_12mo_crime_count' sums the trailing window of up to 12 months (see 'rolling_window_months' for how many months actually went into it - it will be less than 12 near the start of the published history). See each month's full summary.json for country-level 'regions' breakdowns and per-category per-1000 rates, which aren't duplicated into this compact history file."
