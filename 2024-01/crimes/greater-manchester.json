@@ -1,0 +1,1595 @@
+[
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "53.513564",
+      "street": {
+        "id": 1887283,
+        "name": "On or near Mellings Avenue"
+      },
+      "longitude": "-2.707366"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 116013811,
+    "location_subtype": "",
+    "month": "2024-01"
+  },
+  {
+    "category": "bicycle-theft",
+    "location_type": "BTP",
+    "location": {
+      "latitude": "53.475776",
+      "street": {
+        "id": 2348024,
+        "name": "Manchester Piccadilly (station)"
+      },
+      "longitude": "-2.231700"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2024-05"
+    },
+    "persistent_id": "",
+    "id": 126016466,
+    "location_subtype": "STATION",
+    "month": "2024-01"
+  },
+  {
+    "category": "burglary",
+    "location_type": "BTP",
+    "location": {
+      "latitude": "53.475776",
+      "street": {
+        "id": 2348024,
+        "name": "Manchester Piccadilly (station)"
+      },
+      "longitude": "-2.231700"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2024-05"
+    },
+    "persistent_id": "",
+    "id": 126016467,
+    "location_subtype": "STATION",
+    "month": "2024-01"
+  },
+  {
+    "category": "burglary",
+    "location_type": "BTP",
+    "location": {
+      "latitude": "53.405115",
+      "street": {
+        "id": 2348190,
+        "name": "Stockport (station)"
+      },
+      "longitude": "-2.164028"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2024-05"
+    },
+    "persistent_id": "",
+    "id": 126017329,
+    "location_subtype": "STATION",
+    "month": "2024-01"
+  },
+  {
+    "category": "criminal-damage-arson",
+    "location_type": "BTP",
+    "location": {
+      "latitude": "53.405115",
+      "street": {
+        "id": 2348190,
+        "name": "Stockport (station)"
+      },
+      "longitude": "-2.164028"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2024-05"
+    },
+    "persistent_id": "",
+    "id": 126017330,
+    "location_subtype": "STATION",
+    "month": "2024-01"
+  },
+  {
+    "category": "criminal-damage-arson",
+    "location_type": "BTP",
+    "location": {
+      "latitude": "53.468861",
+      "street": {
+        "id": 2343731,
+        "name": "Gorton (station)"
+      },
+      "longitude": "-2.166790"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2024-05"
+    },
+    "persistent_id": "",
+    "id": 126015777,
+    "location_subtype": "STATION",
+    "month": "2024-01"
+  },
+  {
+    "category": "criminal-damage-arson",
+    "location_type": "BTP",
+    "location": {
+      "latitude": "53.514824",
+      "street": {
+        "id": 2346713,
+        "name": "Mossley (greater Manchester) (station)"
+      },
+      "longitude": "-2.041358"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2024-05"
+    },
+    "persistent_id": "",
+    "id": 126016606,
+    "location_subtype": "STATION",
+    "month": "2024-01"
+  },
+  {
+    "category": "criminal-damage-arson",
+    "location_type": "Force",
+    "location": {
+      "latitude": "53.581970",
+      "street": {
+        "id": 1894046,
+        "name": "On or near Back Kendal Road"
+      },
+      "longitude": "-2.453001"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2024-01"
+    },
+    "persistent_id": "b15d719d6f3e39642413ea9cc355259ec4ee5b85a50fd30ab7619b61e0f26f3f",
+    "id": 116312777,
+    "location_subtype": "",
+    "month": "2024-01"
+  },
+  {
+    "category": "drugs",
+    "location_type": "Force",
+    "location": {
+      "latitude": "53.361881",
+      "street": {
+        "id": 1907201,
+        "name": "On or near Parking Area"
+      },
+      "longitude": "-2.270841"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-11"
+    },
+    "persistent_id": "3b2f897fbb54f4b89440e3d1357d4c60d35085857baf16928472f6b7f76ed21e",
+    "id": 116310517,
+    "location_subtype": "",
+    "month": "2024-01"
+  },
+  {
+    "category": "drugs",
+    "location_type": "BTP",
+    "location": {
+      "latitude": "53.475776",
+      "street": {
+        "id": 2348024,
+        "name": "Manchester Piccadilly (station)"
+      },
+      "longitude": "-2.231700"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2024-05"
+    },
+    "persistent_id": "",
+    "id": 126016468,
+    "location_subtype": "STATION",
+    "month": "2024-01"
+  },
+  {
+    "category": "drugs",
+    "location_type": "BTP",
+    "location": {
+      "latitude": "53.375927",
+      "street": {
+        "id": 2347812,
+        "name": "Cheadle Hulme (station)"
+      },
+      "longitude": "-2.188318"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2024-05"
+    },
+    "persistent_id": "",
+    "id": 126015157,
+    "location_subtype": "STATION",
+    "month": "2024-01"
+  },
+  {
+    "category": "drugs",
+    "location_type": "BTP",
+    "location": {
+      "latitude": "53.475776",
+      "street": {
+        "id": 2348024,
+        "name": "Manchester Piccadilly (station)"
+      },
+      "longitude": "-2.231700"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2024-05"
+    },
+    "persistent_id": "",
+    "id": 126016469,
+    "location_subtype": "STATION",
+    "month": "2024-01"
+  },
+  {
+    "category": "drugs",
+    "location_type": "BTP",
+    "location": {
+      "latitude": "53.543407",
+      "street": {
+        "id": 2348253,
+        "name": "Wigan North Western (station)"
+      },
+      "longitude": "-2.635010"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2024-05"
+    },
+    "persistent_id": "",
+    "id": 126017818,
+    "location_subtype": "STATION",
+    "month": "2024-01"
+  },
+  {
+    "category": "drugs",
+    "location_type": "BTP",
+    "location": {
+      "latitude": "53.405115",
+      "street": {
+        "id": 2348190,
+        "name": "Stockport (station)"
+      },
+      "longitude": "-2.164028"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2024-05"
+    },
+    "persistent_id": "",
+    "id": 126017331,
+    "location_subtype": "STATION",
+    "month": "2024-01"
+  },
+  {
+    "category": "other-theft",
+    "location_type": "BTP",
+    "location": {
+      "latitude": "53.347975",
+      "street": {
+        "id": 2348022,
+        "name": "Manchester Airport (station)"
+      },
+      "longitude": "-2.288616"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2024-05"
+    },
+    "persistent_id": "",
+    "id": 126016461,
+    "location_subtype": "STATION",
+    "month": "2024-01"
+  },
+  {
+    "category": "other-theft",
+    "location_type": "BTP",
+    "location": {
+      "latitude": "53.405115",
+      "street": {
+        "id": 2348190,
+        "name": "Stockport (station)"
+      },
+      "longitude": "-2.164028"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2024-05"
+    },
+    "persistent_id": "",
+    "id": 126017332,
+    "location_subtype": "STATION",
+    "month": "2024-01"
+  },
+  {
+    "category": "other-theft",
+    "location_type": "BTP",
+    "location": {
+      "latitude": "53.574381",
+      "street": {
+        "id": 2347779,
+        "name": "Bolton (station)"
+      },
+      "longitude": "-2.428390"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2024-05"
+    },
+    "persistent_id": "",
+    "id": 126014867,
+    "location_subtype": "STATION",
+    "month": "2024-01"
+  },
+  {
+    "category": "other-theft",
+    "location_type": "BTP",
+    "location": {
+      "latitude": "53.475776",
+      "street": {
+        "id": 2348024,
+        "name": "Manchester Piccadilly (station)"
+      },
+      "longitude": "-2.231700"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2024-05"
+    },
+    "persistent_id": "",
+    "id": 126016471,
+    "location_subtype": "STATION",
+    "month": "2024-01"
+  },
+  {
+    "category": "other-theft",
+    "location_type": "BTP",
+    "location": {
+      "latitude": "53.475776",
+      "street": {
+        "id": 2348024,
+        "name": "Manchester Piccadilly (station)"
+      },
+      "longitude": "-2.231700"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2024-05"
+    },
+    "persistent_id": "",
+    "id": 126016470,
+    "location_subtype": "STATION",
+    "month": "2024-01"
+  },
+  {
+    "category": "other-theft",
+    "location_type": "Force",
+    "location": {
+      "latitude": "53.630695",
+      "street": {
+        "id": 1893709,
+        "name": "On or near Delph Avenue"
+      },
+      "longitude": "-2.445886"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2024-01"
+    },
+    "persistent_id": "f3c65226757ef69bfe7517d79f2d28b32047ed8cdc1196fb5bb87faf4d015f08",
+    "id": 116308695,
+    "location_subtype": "",
+    "month": "2024-01"
+  },
+  {
+    "category": "other-theft",
+    "location_type": "Force",
+    "location": {
+      "latitude": "53.495452",
+      "street": {
+        "id": 1916557,
+        "name": "On or near Mountain Street"
+      },
+      "longitude": "-2.173141"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2024-05"
+    },
+    "persistent_id": "0abf36dccdb5e997250451115ecbe3900b4275c7bca1edf83f60b127cc0e6c25",
+    "id": 116313643,
+    "location_subtype": "",
+    "month": "2024-01"
+  },
+  {
+    "category": "other-theft",
+    "location_type": "Force",
+    "location": {
+      "latitude": "53.590943",
+      "street": {
+        "id": 1887367,
+        "name": "On or near Hesketh Drive"
+      },
+      "longitude": "-2.692629"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2024-02"
+    },
+    "persistent_id": "9148bb81cff79018dfcaa8ec3f1a953cdf09bce4ae0bc800ed80e810dc1ca7ce",
+    "id": 116310255,
+    "location_subtype": "",
+    "month": "2024-01"
+  },
+  {
+    "category": "other-theft",
+    "location_type": "Force",
+    "location": {
+      "latitude": "53.590943",
+      "street": {
+        "id": 1887367,
+        "name": "On or near Hesketh Drive"
+      },
+      "longitude": "-2.692629"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2024-02"
+    },
+    "persistent_id": "db8c7f90694ad4a00ad9f643cbfba5983f505c9e1e943560462137875ba3901a",
+    "id": 116306790,
+    "location_subtype": "",
+    "month": "2024-01"
+  },
+  {
+    "category": "other-theft",
+    "location_type": "Force",
+    "location": {
+      "latitude": "53.453837",
+      "street": {
+        "id": 1912412,
+        "name": "On or near Dickenson Road"
+      },
+      "longitude": "-2.211432"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2024-01"
+    },
+    "persistent_id": "add76582b3109b8e474c77d711e412d6b33873ae3b5d49217734ee49c9590129",
+    "id": 116307263,
+    "location_subtype": "",
+    "month": "2024-01"
+  },
+  {
+    "category": "other-theft",
+    "location_type": "Force",
+    "location": {
+      "latitude": "53.632756",
+      "street": {
+        "id": 1917694,
+        "name": "On or near Bernard Street"
+      },
+      "longitude": "-2.161605"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Action to be taken by another organisation",
+      "date": "2024-01"
+    },
+    "persistent_id": "25a8b390dd46c6493c8a57ff19aaf71f08cb173b05cff38f388258f546858bfb",
+    "id": 116310580,
+    "location_subtype": "",
+    "month": "2024-01"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "53.512571",
+      "street": {
+        "id": 1887112,
+        "name": "On or near Crank Road"
+      },
+      "longitude": "-2.720153"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Court result unavailable",
+      "date": "2024-07"
+    },
+    "persistent_id": "105bb6d09cb6d36be3845f37c9f0558f86b14c8a8f87c0ed092e271a061b6217",
+    "id": 116017677,
+    "location_subtype": "",
+    "month": "2024-01"
+  },
+  {
+    "category": "public-order",
+    "location_type": "BTP",
+    "location": {
+      "latitude": "53.633379",
+      "street": {
+        "id": 2345014,
+        "name": "Smithy Bridge (station)"
+      },
+      "longitude": "-2.113367"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2024-05"
+    },
+    "persistent_id": "",
+    "id": 126017177,
+    "location_subtype": "STATION",
+    "month": "2024-01"
+  },
+  {
+    "category": "public-order",
+    "location_type": "BTP",
+    "location": {
+      "latitude": "53.405115",
+      "street": {
+        "id": 2348190,
+        "name": "Stockport (station)"
+      },
+      "longitude": "-2.164028"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2024-05"
+    },
+    "persistent_id": "",
+    "id": 126017334,
+    "location_subtype": "STATION",
+    "month": "2024-01"
+  },
+  {
+    "category": "public-order",
+    "location_type": "BTP",
+    "location": {
+      "latitude": "53.475776",
+      "street": {
+        "id": 2348024,
+        "name": "Manchester Piccadilly (station)"
+      },
+      "longitude": "-2.231700"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2024-05"
+    },
+    "persistent_id": "",
+    "id": 126016473,
+    "location_subtype": "STATION",
+    "month": "2024-01"
+  },
+  {
+    "category": "public-order",
+    "location_type": "BTP",
+    "location": {
+      "latitude": "53.475776",
+      "street": {
+        "id": 2348024,
+        "name": "Manchester Piccadilly (station)"
+      },
+      "longitude": "-2.231700"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2024-05"
+    },
+    "persistent_id": "",
+    "id": 126016472,
+    "location_subtype": "STATION",
+    "month": "2024-01"
+  },
+  {
+    "category": "public-order",
+    "location_type": "BTP",
+    "location": {
+      "latitude": "53.405115",
+      "street": {
+        "id": 2348190,
+        "name": "Stockport (station)"
+      },
+      "longitude": "-2.164028"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2024-05"
+    },
+    "persistent_id": "",
+    "id": 126017333,
+    "location_subtype": "STATION",
+    "month": "2024-01"
+  },
+  {
+    "category": "public-order",
+    "location_type": "BTP",
+    "location": {
+      "latitude": "53.369415",
+      "street": {
+        "id": 2343884,
+        "name": "Heald Green (station)"
+      },
+      "longitude": "-2.236818"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2024-05"
+    },
+    "persistent_id": "",
+    "id": 126015941,
+    "location_subtype": "STATION",
+    "month": "2024-01"
+  },
+  {
+    "category": "robbery",
+    "location_type": "BTP",
+    "location": {
+      "latitude": "53.475776",
+      "street": {
+        "id": 2348024,
+        "name": "Manchester Piccadilly (station)"
+      },
+      "longitude": "-2.231700"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2024-05"
+    },
+    "persistent_id": "",
+    "id": 126016474,
+    "location_subtype": "STATION",
+    "month": "2024-01"
+  },
+  {
+    "category": "robbery",
+    "location_type": "BTP",
+    "location": {
+      "latitude": "53.610179",
+      "street": {
+        "id": 2348128,
+        "name": "Rochdale (station)"
+      },
+      "longitude": "-2.154600"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2024-05"
+    },
+    "persistent_id": "",
+    "id": 126016989,
+    "location_subtype": "STATION",
+    "month": "2024-01"
+  },
+  {
+    "category": "shoplifting",
+    "location_type": "BTP",
+    "location": {
+      "latitude": "53.405115",
+      "street": {
+        "id": 2348190,
+        "name": "Stockport (station)"
+      },
+      "longitude": "-2.164028"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2024-05"
+    },
+    "persistent_id": "",
+    "id": 126017335,
+    "location_subtype": "STATION",
+    "month": "2024-01"
+  },
+  {
+    "category": "shoplifting",
+    "location_type": "BTP",
+    "location": {
+      "latitude": "53.475776",
+      "street": {
+        "id": 2348024,
+        "name": "Manchester Piccadilly (station)"
+      },
+      "longitude": "-2.231700"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2024-05"
+    },
+    "persistent_id": "",
+    "id": 126016475,
+    "location_subtype": "STATION",
+    "month": "2024-01"
+  },
+  {
+    "category": "shoplifting",
+    "location_type": "BTP",
+    "location": {
+      "latitude": "53.610179",
+      "street": {
+        "id": 2348128,
+        "name": "Rochdale (station)"
+      },
+      "longitude": "-2.154600"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2024-05"
+    },
+    "persistent_id": "",
+    "id": 126016990,
+    "location_subtype": "STATION",
+    "month": "2024-01"
+  },
+  {
+    "category": "theft-from-the-person",
+    "location_type": "BTP",
+    "location": {
+      "latitude": "53.475776",
+      "street": {
+        "id": 2348024,
+        "name": "Manchester Piccadilly (station)"
+      },
+      "longitude": "-2.231700"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2024-05"
+    },
+    "persistent_id": "",
+    "id": 126016476,
+    "location_subtype": "STATION",
+    "month": "2024-01"
+  },
+  {
+    "category": "theft-from-the-person",
+    "location_type": "BTP",
+    "location": {
+      "latitude": "53.405115",
+      "street": {
+        "id": 2348190,
+        "name": "Stockport (station)"
+      },
+      "longitude": "-2.164028"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2024-05"
+    },
+    "persistent_id": "",
+    "id": 126017336,
+    "location_subtype": "STATION",
+    "month": "2024-01"
+  },
+  {
+    "category": "vehicle-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "53.591891",
+      "street": {
+        "id": 1902311,
+        "name": "On or near Ainsworth Road"
+      },
+      "longitude": "-2.326699"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2024-01"
+    },
+    "persistent_id": "58e82e8595fe66605cd036df9e377d6444664452f8bb8c0a553a7344b5a8e00e",
+    "id": 116306223,
+    "location_subtype": "",
+    "month": "2024-01"
+  },
+  {
+    "category": "vehicle-crime",
+    "location_type": "BTP",
+    "location": {
+      "latitude": "53.475776",
+      "street": {
+        "id": 2348024,
+        "name": "Manchester Piccadilly (station)"
+      },
+      "longitude": "-2.231700"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2024-05"
+    },
+    "persistent_id": "",
+    "id": 126016477,
+    "location_subtype": "STATION",
+    "month": "2024-01"
+  },
+  {
+    "category": "vehicle-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "53.491530",
+      "street": {
+        "id": 1926310,
+        "name": "On or near Hospital"
+      },
+      "longitude": "-2.071448"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2024-02"
+    },
+    "persistent_id": "09ee995f661fa7983d268a2b1264ad3896c43a8d3f1b9416e7a72399c0f19da9",
+    "id": 116169416,
+    "location_subtype": "",
+    "month": "2024-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "53.523147",
+      "street": {
+        "id": 1888432,
+        "name": "On or near Marus Avenue"
+      },
+      "longitude": "-2.650178"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2024-05"
+    },
+    "persistent_id": "af8b910e9571fc01c43a2a6f93312c04cb6b8918ae33fa6af4553ff483f96272",
+    "id": 116184935,
+    "location_subtype": "",
+    "month": "2024-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "53.449789",
+      "street": {
+        "id": 1908625,
+        "name": "On or near Stanley Road"
+      },
+      "longitude": "-2.254716"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2024-05"
+    },
+    "persistent_id": "6bd9f94eaa703d87bdbe8f1149e6564950c762f49ddcfb71b8bfbc9769fe1f11",
+    "id": 116170556,
+    "location_subtype": "",
+    "month": "2024-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "53.424758",
+      "street": {
+        "id": 1895066,
+        "name": "On or near Harriet Street"
+      },
+      "longitude": "-2.436880"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2024-05"
+    },
+    "persistent_id": "91fa39f00490af65013eb059ce301092831f2c2e64c3669cd39aed3a2be61fcb",
+    "id": 116096519,
+    "location_subtype": "",
+    "month": "2024-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "53.481207",
+      "street": {
+        "id": 1910725,
+        "name": "On or near Brewer Street"
+      },
+      "longitude": "-2.230976"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2024-05"
+    },
+    "persistent_id": "c0eda7bb6fdfda660f9368f0a762a5cdf510335be7028988d3ab5d2c50c31401",
+    "id": 116126354,
+    "location_subtype": "",
+    "month": "2024-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "53.594825",
+      "street": {
+        "id": 1910439,
+        "name": "On or near Millbank Street"
+      },
+      "longitude": "-2.232638"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2024-05"
+    },
+    "persistent_id": "558e7b31f3cf5fa7787f3bee108411d4a40fdb780286c74a228cfb7b90f53bb1",
+    "id": 116060185,
+    "location_subtype": "",
+    "month": "2024-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "53.485546",
+      "street": {
+        "id": 1906671,
+        "name": "On or near Parking Area"
+      },
+      "longitude": "-2.278244"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Action to be taken by another organisation",
+      "date": "2024-02"
+    },
+    "persistent_id": "8b36bacf0a13273e040c6d5588bc502e571681ae7d5fff913427c765388b6d3e",
+    "id": 116307574,
+    "location_subtype": "",
+    "month": "2024-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "53.588684",
+      "street": {
+        "id": 1911757,
+        "name": "On or near Wilton Grove"
+      },
+      "longitude": "-2.219447"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2024-02"
+    },
+    "persistent_id": "f58df5f1bfc87c26000cd7afcb234b37a6910037a753193e645dd89d1d75d03f",
+    "id": 116352550,
+    "location_subtype": "",
+    "month": "2024-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "53.614171",
+      "street": {
+        "id": 1896035,
+        "name": "On or near Cross Street"
+      },
+      "longitude": "-2.424535"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Court result unavailable",
+      "date": "2024-07"
+    },
+    "persistent_id": "3bea7e729468da9bc87b33ec98e3cec698046c18a53ca8ca0078d1910334d831",
+    "id": 116308535,
+    "location_subtype": "",
+    "month": "2024-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "53.485546",
+      "street": {
+        "id": 1906671,
+        "name": "On or near Parking Area"
+      },
+      "longitude": "-2.278244"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Action to be taken by another organisation",
+      "date": "2024-02"
+    },
+    "persistent_id": "325c8f093d86cc30b161194afeb91c005aec957821e0f2a9b3ba101d9f18fcca",
+    "id": 116307461,
+    "location_subtype": "",
+    "month": "2024-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "53.538766",
+      "street": {
+        "id": 1891757,
+        "name": "On or near Gellert Place"
+      },
+      "longitude": "-2.524725"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2024-05"
+    },
+    "persistent_id": "7fc004960e9e61b2f80bcf3b89ede908e1c9009f442d250b2f475895a5ef7a15",
+    "id": 116309999,
+    "location_subtype": "",
+    "month": "2024-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "53.485198",
+      "street": {
+        "id": 1910738,
+        "name": "On or near Cornell Street"
+      },
+      "longitude": "-2.230636"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2024-05"
+    },
+    "persistent_id": "2ebc31adfbfd66ae6fc83517ec295c35791ff32366174128827962f66a4259db",
+    "id": 116169752,
+    "location_subtype": "",
+    "month": "2024-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "53.480860",
+      "street": {
+        "id": 1920707,
+        "name": "On or near Lynwood Grove"
+      },
+      "longitude": "-2.134537"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2024-05"
+    },
+    "persistent_id": "01931efaf299954eceb83429790b7786e384f94445cfa49f949e84b30048573b",
+    "id": 116168237,
+    "location_subtype": "",
+    "month": "2024-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "53.574681",
+      "street": {
+        "id": 1896090,
+        "name": "On or near Back Ash Street"
+      },
+      "longitude": "-2.423414"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2024-05"
+    },
+    "persistent_id": "55588822fbca7f3a4d531d979bcb4702ef244200ba669b4c0222f2d23b688803",
+    "id": 116311112,
+    "location_subtype": "",
+    "month": "2024-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "53.587505",
+      "street": {
+        "id": 1894315,
+        "name": "On or near Hatfield Road"
+      },
+      "longitude": "-2.448483"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2024-05"
+    },
+    "persistent_id": "979cf659d7d7fd59e01786c5b2b02d8b475b9cee3a81696f6e0332edbd2309fc",
+    "id": 116096630,
+    "location_subtype": "",
+    "month": "2024-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "53.365603",
+      "street": {
+        "id": 1915116,
+        "name": "On or near Woodfield Road"
+      },
+      "longitude": "-2.185883"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2024-05"
+    },
+    "persistent_id": "3a3fa08c84d30f33b254e2f96eb14e1e4dcd4441b76c15e8cb5accbb63fa6f7a",
+    "id": 115948014,
+    "location_subtype": "",
+    "month": "2024-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "53.459372",
+      "street": {
+        "id": 1922593,
+        "name": "On or near Apsley Road"
+      },
+      "longitude": "-2.113700"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2024-05"
+    },
+    "persistent_id": "d3410c6c912d0b64b52b2ebb710dd36d7241c977529ce8eeccd9d6daf45db819",
+    "id": 116185126,
+    "location_subtype": "",
+    "month": "2024-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "53.465999",
+      "street": {
+        "id": 1922066,
+        "name": "On or near Leech Brook Avenue"
+      },
+      "longitude": "-2.120571"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2024-02"
+    },
+    "persistent_id": "4934d08b2f72bbdd30d9f501a9bfcdde8a6605efb12f2dc8142bf14d0b0948f6",
+    "id": 116181123,
+    "location_subtype": "",
+    "month": "2024-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "53.383887",
+      "street": {
+        "id": 1921176,
+        "name": "On or near Parking Area"
+      },
+      "longitude": "-2.130472"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2024-01"
+    },
+    "persistent_id": "bf77736b5e0badc2109ba13f9932f9b78b0a300166f8b561fe06acd5c1345412",
+    "id": 116167197,
+    "location_subtype": "",
+    "month": "2024-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "53.383887",
+      "street": {
+        "id": 1921176,
+        "name": "On or near Parking Area"
+      },
+      "longitude": "-2.130472"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2024-01"
+    },
+    "persistent_id": "7055d2e9e6d02f1be5af4b46ccdfe6b3fc99f3daace33a6b5e235bfbc23654fb",
+    "id": 116167256,
+    "location_subtype": "",
+    "month": "2024-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "53.394811",
+      "street": {
+        "id": 1923987,
+        "name": "On or near Marple Old Road"
+      },
+      "longitude": "-2.099662"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2024-05"
+    },
+    "persistent_id": "ddccef189c9636321ab952b64fdf56ad7d1d4582cd0b7d2a25f6f5b216fd01da",
+    "id": 116315047,
+    "location_subtype": "",
+    "month": "2024-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "53.553019",
+      "street": {
+        "id": 1896255,
+        "name": "On or near Bradford Road"
+      },
+      "longitude": "-2.420843"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2024-05"
+    },
+    "persistent_id": "8cf3ed352b7182b1c53adf1922a8b0ad976f1884779afdf7a4b3878f149f2950",
+    "id": 116313518,
+    "location_subtype": "",
+    "month": "2024-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "53.517752",
+      "street": {
+        "id": 1890194,
+        "name": "On or near Prison"
+      },
+      "longitude": "-2.576949"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2024-02"
+    },
+    "persistent_id": "d3654b747b8b647d3487db9537f443a3126356159f1c22169917628816a98bd3",
+    "id": 116203758,
+    "location_subtype": "",
+    "month": "2024-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "BTP",
+    "location": {
+      "latitude": "53.405115",
+      "street": {
+        "id": 2348190,
+        "name": "Stockport (station)"
+      },
+      "longitude": "-2.164028"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2024-05"
+    },
+    "persistent_id": "",
+    "id": 126017337,
+    "location_subtype": "STATION",
+    "month": "2024-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "BTP",
+    "location": {
+      "latitude": "53.475776",
+      "street": {
+        "id": 2348024,
+        "name": "Manchester Piccadilly (station)"
+      },
+      "longitude": "-2.231700"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2024-05"
+    },
+    "persistent_id": "",
+    "id": 126016479,
+    "location_subtype": "STATION",
+    "month": "2024-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "BTP",
+    "location": {
+      "latitude": "53.475776",
+      "street": {
+        "id": 2348024,
+        "name": "Manchester Piccadilly (station)"
+      },
+      "longitude": "-2.231700"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2024-05"
+    },
+    "persistent_id": "",
+    "id": 126016478,
+    "location_subtype": "STATION",
+    "month": "2024-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "BTP",
+    "location": {
+      "latitude": "53.434112",
+      "street": {
+        "id": 2344038,
+        "name": "Irlam (station)"
+      },
+      "longitude": "-2.433228"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2024-05"
+    },
+    "persistent_id": "",
+    "id": 126016109,
+    "location_subtype": "STATION",
+    "month": "2024-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "BTP",
+    "location": {
+      "latitude": "53.434112",
+      "street": {
+        "id": 2344038,
+        "name": "Irlam (station)"
+      },
+      "longitude": "-2.433228"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2024-05"
+    },
+    "persistent_id": "",
+    "id": 126016108,
+    "location_subtype": "STATION",
+    "month": "2024-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "BTP",
+    "location": {
+      "latitude": "53.432088",
+      "street": {
+        "id": 2343006,
+        "name": "Brinnington (station)"
+      },
+      "longitude": "-2.134939"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2024-05"
+    },
+    "persistent_id": "",
+    "id": 126014946,
+    "location_subtype": "STATION",
+    "month": "2024-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "BTP",
+    "location": {
+      "latitude": "53.423108",
+      "street": {
+        "id": 2342988,
+        "name": "Bredbury (station)"
+      },
+      "longitude": "-2.110413"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2024-05"
+    },
+    "persistent_id": "",
+    "id": 126014919,
+    "location_subtype": "STATION",
+    "month": "2024-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "BTP",
+    "location": {
+      "latitude": "53.544759",
+      "street": {
+        "id": 2345516,
+        "name": "Wigan Wallgate (station)"
+      },
+      "longitude": "-2.632929"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2024-05"
+    },
+    "persistent_id": "",
+    "id": 126017821,
+    "location_subtype": "STATION",
+    "month": "2024-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "BTP",
+    "location": {
+      "latitude": "53.543407",
+      "street": {
+        "id": 2348253,
+        "name": "Wigan North Western (station)"
+      },
+      "longitude": "-2.635010"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2024-05"
+    },
+    "persistent_id": "",
+    "id": 126017820,
+    "location_subtype": "STATION",
+    "month": "2024-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "BTP",
+    "location": {
+      "latitude": "53.543407",
+      "street": {
+        "id": 2348253,
+        "name": "Wigan North Western (station)"
+      },
+      "longitude": "-2.635010"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2024-05"
+    },
+    "persistent_id": "",
+    "id": 126017819,
+    "location_subtype": "STATION",
+    "month": "2024-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "53.549108",
+      "street": {
+        "id": 1892006,
+        "name": "On or near Parking Area"
+      },
+      "longitude": "-2.519269"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2024-05"
+    },
+    "persistent_id": "2b789e660171fbaf0cffa34d5df9f714a0f2f754e837041da59fbe1c60f5ab27",
+    "id": 116095140,
+    "location_subtype": "",
+    "month": "2024-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "53.485546",
+      "street": {
+        "id": 1906671,
+        "name": "On or near Parking Area"
+      },
+      "longitude": "-2.278244"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Action to be taken by another organisation",
+      "date": "2024-02"
+    },
+    "persistent_id": "70fab026bc88e1a9d3d97315c56ea8e750a3a9394b1d5b0bfcf1d59536633034",
+    "id": 116307438,
+    "location_subtype": "",
+    "month": "2024-01"
+  }
+]
