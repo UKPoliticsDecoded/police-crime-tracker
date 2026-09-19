@@ -116,4 +116,5 @@ months is still recoverable from earlier git commits if ever needed.
   left unmapped (`null`) in `force_locations.json` by default.
 
 ## Support this project
-You can support this project via our 
+You can support this project via our ko-fi page.
+https://ko-fi.com/ukpoliticsdecoded
