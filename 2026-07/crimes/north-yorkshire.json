@@ -1,1 +1,794 @@
-[]
+[
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "53.776768",
+      "street": {
+        "id": 1580684,
+        "name": "On or near Croft Close"
+      },
+      "longitude": "-1.242950"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 136507325,
+    "location_subtype": "",
+    "month": "2026-07"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "53.915394",
+      "street": {
+        "id": 1574885,
+        "name": "On or near Main Street"
+      },
+      "longitude": "-1.992534"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 136508375,
+    "location_subtype": "",
+    "month": "2026-07"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "54.472215",
+      "street": {
+        "id": 1579958,
+        "name": "On or near Park/open Space"
+      },
+      "longitude": "-1.311583"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 136720807,
+    "location_subtype": "",
+    "month": "2026-07"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "54.143512",
+      "street": {
+        "id": 1586144,
+        "name": "On or near Appleton Lane"
+      },
+      "longitude": "-0.886539"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 136744024,
+    "location_subtype": "",
+    "month": "2026-07"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "53.729456",
+      "street": {
+        "id": 1580341,
+        "name": "On or near Foxcliff"
+      },
+      "longitude": "-1.265051"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 136510150,
+    "location_subtype": "",
+    "month": "2026-07"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "53.766954",
+      "street": {
+        "id": 2132512,
+        "name": "On or near Parking Area"
+      },
+      "longitude": "-1.292550"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 136508671,
+    "location_subtype": "",
+    "month": "2026-07"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "53.930608",
+      "street": {
+        "id": 2129068,
+        "name": "On or near Patterdale Approach"
+      },
+      "longitude": "-1.409605"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 136509107,
+    "location_subtype": "",
+    "month": "2026-07"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "53.724403",
+      "street": {
+        "id": 1580376,
+        "name": "On or near Park Gardens"
+      },
+      "longitude": "-1.263381"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 136509575,
+    "location_subtype": "",
+    "month": "2026-07"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "53.626587",
+      "street": {
+        "id": 1580595,
+        "name": "On or near Petrol Station"
+      },
+      "longitude": "-1.237479"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 136508654,
+    "location_subtype": "",
+    "month": "2026-07"
+  },
+  {
+    "category": "burglary",
+    "location_type": "Force",
+    "location": {
+      "latitude": "53.982447",
+      "street": {
+        "id": 1574320,
+        "name": "On or near Parking Area"
+      },
+      "longitude": "-2.033832"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Under investigation",
+      "date": "2026-07"
+    },
+    "persistent_id": "260b46e4eb0e7c7fb0ebae4282225f2fb518e8cfadeb4deae76c28a0ffe9423b",
+    "id": 136269452,
+    "location_subtype": "",
+    "month": "2026-07"
+  },
+  {
+    "category": "burglary",
+    "location_type": "Force",
+    "location": {
+      "latitude": "53.718211",
+      "street": {
+        "id": 1580348,
+        "name": "On or near Parking Area"
+      },
+      "longitude": "-1.267868"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2026-07"
+    },
+    "persistent_id": "7575ea377a82b5813d23e05e325d4d803199ef876e83224b758a95f9bc85d8ca",
+    "id": 136500065,
+    "location_subtype": "",
+    "month": "2026-07"
+  },
+  {
+    "category": "burglary",
+    "location_type": "Force",
+    "location": {
+      "latitude": "53.915094",
+      "street": {
+        "id": 2112846,
+        "name": "On or near The Crossways"
+      },
+      "longitude": "-1.693500"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Under investigation",
+      "date": "2026-07"
+    },
+    "persistent_id": "9eaaa99089156ae877c4541de7e88513921d0cfe61a41ead7266b34734a5542c",
+    "id": 136485246,
+    "location_subtype": "",
+    "month": "2026-07"
+  },
+  {
+    "category": "criminal-damage-arson",
+    "location_type": "Force",
+    "location": {
+      "latitude": "53.647959",
+      "street": {
+        "id": 1581092,
+        "name": "On or near Little Lane"
+      },
+      "longitude": "-1.195123"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Awaiting court outcome",
+      "date": "2026-07"
+    },
+    "persistent_id": "aff9c9e810eeb91fc99ea2f894459f46b7ee08500ac20c6cddbcde38e9788c89",
+    "id": 136797687,
+    "location_subtype": "",
+    "month": "2026-07"
+  },
+  {
+    "category": "criminal-damage-arson",
+    "location_type": "Force",
+    "location": {
+      "latitude": "53.718211",
+      "street": {
+        "id": 1580348,
+        "name": "On or near Parking Area"
+      },
+      "longitude": "-1.267868"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2026-07"
+    },
+    "persistent_id": "577495ec3d157f875f24b91d0c3ea45936788fb003870552ff5d767ae41fa510",
+    "id": 136504355,
+    "location_subtype": "",
+    "month": "2026-07"
+  },
+  {
+    "category": "criminal-damage-arson",
+    "location_type": "Force",
+    "location": {
+      "latitude": "54.483511",
+      "street": {
+        "id": 1577006,
+        "name": "On or near Rectory Lane"
+      },
+      "longitude": "-1.557455"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2026-07"
+    },
+    "persistent_id": "58b186db02a7196fb541acf17f03bac05b849c680b34b0fb337eeba92c01a671",
+    "id": 136697846,
+    "location_subtype": "",
+    "month": "2026-07"
+  },
+  {
+    "category": "criminal-damage-arson",
+    "location_type": "Force",
+    "location": {
+      "latitude": "53.915094",
+      "street": {
+        "id": 2112846,
+        "name": "On or near The Crossways"
+      },
+      "longitude": "-1.693500"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2026-07"
+    },
+    "persistent_id": "00696b37c000db9c322c76e6a820bdea0f1eefd640655b3f68bbff231a6d1e54",
+    "id": 136490356,
+    "location_subtype": "",
+    "month": "2026-07"
+  },
+  {
+    "category": "drugs",
+    "location_type": "Force",
+    "location": {
+      "latitude": "54.472215",
+      "street": {
+        "id": 1579958,
+        "name": "On or near Park/open Space"
+      },
+      "longitude": "-1.311583"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Awaiting court outcome",
+      "date": "2026-07"
+    },
+    "persistent_id": "91887cbd7a8ec0ab749ef8506dc2910989f8ee8fb47eb8bfa98e4f41bf64f2d8",
+    "id": 136720806,
+    "location_subtype": "",
+    "month": "2026-07"
+  },
+  {
+    "category": "drugs",
+    "location_type": "Force",
+    "location": {
+      "latitude": "53.704376",
+      "street": {
+        "id": 1582827,
+        "name": "On or near Bird Lane"
+      },
+      "longitude": "-1.104777"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Awaiting court outcome",
+      "date": "2026-07"
+    },
+    "persistent_id": "9728f8c9dee74d4f6064a4fa0e77d2da75d32eb36a8d1fb617ca388913265ee3",
+    "id": 136599524,
+    "location_subtype": "",
+    "month": "2026-07"
+  },
+  {
+    "category": "other-theft",
+    "location_type": "Force",
+    "location": {
+      "latitude": "53.767533",
+      "street": {
+        "id": 2342378,
+        "name": "On or near "
+      },
+      "longitude": "-1.065638"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Under investigation",
+      "date": "2026-07"
+    },
+    "persistent_id": "a877ce7b52906274119df2655a9f744983f0f1e13de7cc1e0b942b1eed28e0db",
+    "id": 136806790,
+    "location_subtype": "",
+    "month": "2026-07"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "54.371250",
+      "street": {
+        "id": 1587585,
+        "name": "On or near Prior Wath Road"
+      },
+      "longitude": "-0.478441"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Under investigation",
+      "date": "2026-07"
+    },
+    "persistent_id": "84b0009bb94f9882d78a7cccc00058a9cd10c894126d069245cd58d0d9bcbfe3",
+    "id": 136603412,
+    "location_subtype": "",
+    "month": "2026-07"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "53.939994",
+      "street": {
+        "id": 1575356,
+        "name": "On or near Hunger Hill"
+      },
+      "longitude": "-1.813874"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2026-07"
+    },
+    "persistent_id": "be133fe1b7e68366d0f2fd3d0df374351201277cd5fb7e175f0942637af58e7b",
+    "id": 136503064,
+    "location_subtype": "",
+    "month": "2026-07"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "54.072266",
+      "street": {
+        "id": 1586072,
+        "name": "On or near Parking Area"
+      },
+      "longitude": "-0.916109"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Under investigation",
+      "date": "2026-07"
+    },
+    "persistent_id": "eb677902e4c6efddc3df43929b9543a83a347229c36c6d38f40fb75092ad177a",
+    "id": 136794471,
+    "location_subtype": "",
+    "month": "2026-07"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "53.981533",
+      "street": {
+        "id": 1583013,
+        "name": "On or near Shopping Area"
+      },
+      "longitude": "-1.098657"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2026-07"
+    },
+    "persistent_id": "fc4e1243a6833865513b159fadc61e0c24d59c379d861fe710e75feca9bcf246",
+    "id": 136799377,
+    "location_subtype": "",
+    "month": "2026-07"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "53.959053",
+      "street": {
+        "id": 1583722,
+        "name": "On or near Whip-ma-whop-ma-gate"
+      },
+      "longitude": "-1.079183"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Under investigation",
+      "date": "2026-07"
+    },
+    "persistent_id": "0e44ef9d87f28b1efd3ec6a06674d4ec17c063858fe0a1a460b6ecc4cd6e93da",
+    "id": 136694967,
+    "location_subtype": "",
+    "month": "2026-07"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "53.782607",
+      "street": {
+        "id": 1579950,
+        "name": "On or near Highfield Lane"
+      },
+      "longitude": "-1.307892"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2026-07"
+    },
+    "persistent_id": "b181fb4d1f9ea5b36edd18da101a818d015510830e8d8d90848894ac5ae2785b",
+    "id": 136494286,
+    "location_subtype": "",
+    "month": "2026-07"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "53.957775",
+      "street": {
+        "id": 1583189,
+        "name": "On or near York"
+      },
+      "longitude": "-1.093125"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Under investigation",
+      "date": "2026-07"
+    },
+    "persistent_id": "8aa17dc1e24d15c945021ed3f5391d32807bd2d7e70c2cec92004a61e2f11397",
+    "id": 136652145,
+    "location_subtype": "",
+    "month": "2026-07"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "53.984887",
+      "street": {
+        "id": 2342548,
+        "name": "On or near "
+      },
+      "longitude": "-1.499506"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Under investigation",
+      "date": "2026-07"
+    },
+    "persistent_id": "0daaab8cb1c7e742e38990595285e50741693395c6bde85cb5c3f2cd1bdcce86",
+    "id": 136655807,
+    "location_subtype": "",
+    "month": "2026-07"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "54.157068",
+      "street": {
+        "id": 1575247,
+        "name": "On or near Parking Area"
+      },
+      "longitude": "-1.858152"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Under investigation",
+      "date": "2026-07"
+    },
+    "persistent_id": "ed369c125212344043bba08f91cc98b739b402dcdf7a091e8efb07528ad6a28f",
+    "id": 136405427,
+    "location_subtype": "",
+    "month": "2026-07"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "54.144558",
+      "street": {
+        "id": 1577883,
+        "name": "On or near The Knoll"
+      },
+      "longitude": "-1.527045"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Under investigation",
+      "date": "2026-07"
+    },
+    "persistent_id": "b75f0f15d301de665e9ba771ff2e8619dfa412505aae55e0804f503e48bf1b86",
+    "id": 136696345,
+    "location_subtype": "",
+    "month": "2026-07"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "54.382718",
+      "street": {
+        "id": 1575601,
+        "name": "On or near Chauvel Close"
+      },
+      "longitude": "-1.738375"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2026-07"
+    },
+    "persistent_id": "12ae5cfe8846d1f2eec121bc675765472358462758184f0475f378e95b6790dd",
+    "id": 136693752,
+    "location_subtype": "",
+    "month": "2026-07"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "54.056671",
+      "street": {
+        "id": 1576041,
+        "name": "On or near The Whinfields"
+      },
+      "longitude": "-1.691023"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2026-07"
+    },
+    "persistent_id": "bea7ac54771d90c4552c308cd90d13477e783eec7ffcc1684db7f1363faf4679",
+    "id": 136695691,
+    "location_subtype": "",
+    "month": "2026-07"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "53.998776",
+      "street": {
+        "id": 1577712,
+        "name": "On or near Mornington Crescent"
+      },
+      "longitude": "-1.531123"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Under investigation",
+      "date": "2026-07"
+    },
+    "persistent_id": "758373186e69cee92f9bd39d9f992c1a3a77aeb48be94de783d0a682c63faffd",
+    "id": 136447869,
+    "location_subtype": "",
+    "month": "2026-07"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "53.958284",
+      "street": {
+        "id": 1577686,
+        "name": "On or near Pannal"
+      },
+      "longitude": "-1.532858"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Under investigation",
+      "date": "2026-07"
+    },
+    "persistent_id": "f86de65ec4763eaba5cbacbd8d7e5bcade7b63ecdbe6fd058323ad492201fb89",
+    "id": 136390237,
+    "location_subtype": "",
+    "month": "2026-07"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "53.914013",
+      "street": {
+        "id": 2113378,
+        "name": "On or near Turner Crescent"
+      },
+      "longitude": "-1.689169"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Under investigation",
+      "date": "2026-07"
+    },
+    "persistent_id": "ce1bf31f5b6d2ee0d0d1bacab980c0d3dfa55a61e332a0958091e18cafeb55c4",
+    "id": 136486236,
+    "location_subtype": "",
+    "month": "2026-07"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "54.337506",
+      "street": {
+        "id": 1579087,
+        "name": "On or near Bishopsgarth"
+      },
+      "longitude": "-1.440305"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Under investigation",
+      "date": "2026-07"
+    },
+    "persistent_id": "c5104a6d6504d89bb959217863daec0f179562a150190466dd6c50978048457e",
+    "id": 136709964,
+    "location_subtype": "",
+    "month": "2026-07"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "54.167562",
+      "street": {
+        "id": 1588992,
+        "name": "On or near Ghyll Field"
+      },
+      "longitude": "-0.255960"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Under investigation",
+      "date": "2026-07"
+    },
+    "persistent_id": "f4a308381ca50319bd1dca7d0ef6a961390464790101e1faa945ba7761f71e82",
+    "id": 136798700,
+    "location_subtype": "",
+    "month": "2026-07"
+  },
+  {
+    "category": "other-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "54.296149",
+      "street": {
+        "id": 1588161,
+        "name": "On or near Strensall Drive"
+      },
+      "longitude": "-0.416596"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Under investigation",
+      "date": "2026-07"
+    },
+    "persistent_id": "f4532b02e18f6d7bf77ede57a378a5b04fa3d3fed55e2f4ae6307f2d37c17e10",
+    "id": 136627569,
+    "location_subtype": "",
+    "month": "2026-07"
+  },
+  {
+    "category": "other-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "53.782607",
+      "street": {
+        "id": 1579950,
+        "name": "On or near Highfield Lane"
+      },
+      "longitude": "-1.307892"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Under investigation",
+      "date": "2026-07"
+    },
+    "persistent_id": "5c291f2758bd8465355cfeebefcb0b5580093e9bf51e47d65b210377eb39b727",
+    "id": 136494003,
+    "location_subtype": "",
+    "month": "2026-07"
+  },
+  {
+    "category": "other-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "53.915094",
+      "street": {
+        "id": 2112846,
+        "name": "On or near The Crossways"
+      },
+      "longitude": "-1.693500"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Under investigation",
+      "date": "2026-07"
+    },
+    "persistent_id": "34a673cfb5491132f56f958e00e7a76e384bdba48bdc0c6b0457647685f6cbc6",
+    "id": 136505312,
+    "location_subtype": "",
+    "month": "2026-07"
+  }
+]
