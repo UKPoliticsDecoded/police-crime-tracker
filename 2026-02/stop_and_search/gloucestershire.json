@@ -1,0 +1,114 @@
+[
+  {
+    "age_range": null,
+    "outcome": "A no further action disposal",
+    "involved_person": false,
+    "self_defined_ethnicity": null,
+    "gender": null,
+    "legislation": "Misuse of Drugs Act 1971 (section 23)",
+    "outcome_linked_to_object_of_search": true,
+    "datetime": "2026-02-21T21:34:00+00:00",
+    "removal_of_more_than_outer_clothing": false,
+    "outcome_object": {
+      "id": "bu-no-further-action",
+      "name": "A no further action disposal"
+    },
+    "location": {
+      "latitude": "51.778616",
+      "street": {
+        "id": 1565789,
+        "name": "On or near Green Lane"
+      },
+      "longitude": "-2.314024"
+    },
+    "operation": false,
+    "officer_defined_ethnicity": null,
+    "type": "Vehicle search",
+    "operation_name": null,
+    "object_of_search": "Controlled drugs"
+  },
+  {
+    "age_range": null,
+    "outcome": "A no further action disposal",
+    "involved_person": false,
+    "self_defined_ethnicity": null,
+    "gender": null,
+    "legislation": "Misuse of Drugs Act 1971 (section 23)",
+    "outcome_linked_to_object_of_search": true,
+    "datetime": "2026-02-21T16:53:00+00:00",
+    "removal_of_more_than_outer_clothing": false,
+    "outcome_object": {
+      "id": "bu-no-further-action",
+      "name": "A no further action disposal"
+    },
+    "location": {
+      "latitude": "51.994825",
+      "street": {
+        "id": 1565516,
+        "name": "On or near M50"
+      },
+      "longitude": "-2.347607"
+    },
+    "operation": false,
+    "officer_defined_ethnicity": null,
+    "type": "Vehicle search",
+    "operation_name": null,
+    "object_of_search": "Controlled drugs"
+  },
+  {
+    "age_range": "25-34",
+    "outcome": "A no further action disposal",
+    "involved_person": true,
+    "self_defined_ethnicity": null,
+    "gender": "Male",
+    "legislation": "Misuse of Drugs Act 1971 (section 23)",
+    "outcome_linked_to_object_of_search": false,
+    "datetime": "2026-02-21T21:00:00+00:00",
+    "removal_of_more_than_outer_clothing": false,
+    "outcome_object": {
+      "id": "bu-no-further-action",
+      "name": "A no further action disposal"
+    },
+    "location": {
+      "latitude": "51.808574",
+      "street": {
+        "id": 1566579,
+        "name": "On or near Andrew'S Close"
+      },
+      "longitude": "-2.237621"
+    },
+    "operation": false,
+    "officer_defined_ethnicity": "Asian",
+    "type": "Person and Vehicle search",
+    "operation_name": null,
+    "object_of_search": "Controlled drugs"
+  },
+  {
+    "age_range": "25-34",
+    "outcome": "A no further action disposal",
+    "involved_person": true,
+    "self_defined_ethnicity": "Other ethnic group - Not stated",
+    "gender": "Male",
+    "legislation": "Police and Criminal Evidence Act 1984 (section 1)",
+    "outcome_linked_to_object_of_search": null,
+    "datetime": "2026-02-02T03:02:00+00:00",
+    "removal_of_more_than_outer_clothing": null,
+    "outcome_object": {
+      "id": "bu-no-further-action",
+      "name": "A no further action disposal"
+    },
+    "location": {
+      "latitude": "51.795009",
+      "street": {
+        "id": 1563905,
+        "name": "On or near South Road"
+      },
+      "longitude": "-2.598412"
+    },
+    "operation": false,
+    "officer_defined_ethnicity": "Other",
+    "type": "Person search",
+    "operation_name": null,
+    "object_of_search": null
+  }
+]
