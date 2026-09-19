@@ -1,0 +1,27 @@
+{
+  "id": "wiltshire",
+  "name": "Wiltshire Police",
+  "description": "<p>To prevent crime and protect the public</p>",
+  "url": "http://www.wiltshire.police.uk",
+  "telephone": "101",
+  "engagement_methods": [
+    {
+      "type": null,
+      "title": "Facebook",
+      "description": "<p>Follow us on Facebook</p>",
+      "url": "http://www.facebook.com/wiltshirepolice"
+    },
+    {
+      "type": null,
+      "title": "Twitter",
+      "description": "<p>Follow us on Twitter</p>",
+      "url": "http://twitter.com/wiltshirepolice"
+    },
+    {
+      "type": "telephone",
+      "title": "telephone",
+      "description": null,
+      "url": ""
+    }
+  ]
+}
