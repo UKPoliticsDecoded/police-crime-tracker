@@ -1,0 +1,27 @@
+{
+  "id": "sussex",
+  "name": "Sussex Police",
+  "description": null,
+  "url": "http://www.sussex.police.uk/",
+  "telephone": "101",
+  "engagement_methods": [
+    {
+      "type": "Facebook",
+      "title": "Facebook",
+      "description": "<p>Follow us on Facebook</p>",
+      "url": "https://www.facebook.com/sussexpoliceforce"
+    },
+    {
+      "type": "Twitter",
+      "title": "Twitter",
+      "description": "<p>Follow us on Twitter</p>",
+      "url": "https://twitter.com/sussex_police"
+    },
+    {
+      "type": "Youtube",
+      "title": "Youtube",
+      "description": "<p>View our latest videos on YouTube</p>",
+      "url": "https://www.youtube.com/user/sussexpoliceforce"
+    }
+  ]
+}
