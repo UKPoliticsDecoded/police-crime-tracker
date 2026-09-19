@@ -1,0 +1,33 @@
+{
+  "id": "cleveland",
+  "name": "Cleveland Police",
+  "description": "<p>Geographically Cleveland Police is one of the smallest Forces in England and Wales although the area is one of the most densely populated locations in the country, with 9.4 people per hectare compared to a national average of 3.6 people per hectare.</p>",
+  "url": "https://www.cleveland.police.uk",
+  "telephone": "101",
+  "engagement_methods": [
+    {
+      "type": "youtube",
+      "title": "YouTube",
+      "description": "<p>Subscribe to Cleveland Police on YouTube</p>",
+      "url": "https://www.youtube.com/clevelandpolice"
+    },
+    {
+      "type": "twitter",
+      "title": "Twitter",
+      "description": "<p>Follow Cleveland Police on Twitter</p>",
+      "url": "https://twitter.com/ClevelandPolice"
+    },
+    {
+      "type": "facebook",
+      "title": "Facebook",
+      "description": "<p>Join the Cleveland Police Facebook page.</p>",
+      "url": "https://www.facebook.com/clevelandpolice/"
+    },
+    {
+      "type": "web",
+      "title": "website",
+      "description": "<p>Cleveland Police website</p>",
+      "url": "https://www.cleveland.police.uk"
+    }
+  ]
+}
