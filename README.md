@@ -1,0 +1,119 @@
+# Crime & Justice Tracker
+
+A Python data pipeline that pulls monthly statistics from the
+[UK Police API](https://data.police.uk/docs/) (`https://data.police.uk/api/`),
+compiles them into dated JSON snapshots, and publishes **only those JSON
+files** to a separate GitHub data repository:
+
+```
+https://github.com/UKPoliticsDecoded/police-crime-tracker.git
+```
+
+This project itself (the Python source code / scheduler service) is not
+pushed anywhere by the pipeline, it just needs to run on the production
+server. Only the generated `data/<YYYY-MM>/` JSON snapshots are pushed to
+the target repo.
+
+## What it fetches
+
+For each monthly run:
+
+- `GET /crime-categories` - list of valid crime categories for the month.
+- `GET /forces` - list of all police forces.
+- `GET /forces/{force}` - details for every force.
+- `GET /crimes-street/all-crime?lat=..&lng=..&date=YYYY-MM` - crimes near
+  each force's HQ location for the month.
+- `GET /stops-street?lat=..&lng=..&date=YYYY-MM` - stop & search records
+  near each force's HQ location for the month.
+
+Because `/forces` and `/forces/{force}` don't return coordinates, HQ
+lat/lng points are maintained in [`config/force_locations.json`](config/force_locations.json).
+Review/refine these coordinates as needed - forces with a `null` entry
+are skipped for the geo dependent endpoints (crimes/stop-search) but
+still get their force details/summary recorded.
+
+## Output layout (per run)
+
+```
+data/<YYYY-MM>/
+  forces.json
+  force_details/<force_id>.json
+  crime_categories.json
+  crimes/<force_id>.json
+  stop_and_search/<force_id>.json
+  summary.json        # per force crime/stop-search counts, category breakdowns,
+                       # per capita rates, and a deduplicated "national" rollup
+  manifest.json        # run metadata: successes, failures, skipped forces, errors
+```
+
+The same structure is copied into the target GitHub repo under
+`<YYYY-MM>/`, alongside two root files maintained on every publish:
+
+- `index.json` - list of all published months (`{"months": [...], "latest": "YYYY-MM"}`).
+- `history.json` - a compact month by month time series (national +
+  per force headline stats) so the dashboard can render trend charts
+  without fetching/parsing every month's full `summary.json`.
+
+### National rollup & de-duplication
+
+Because crimes/stop-and-search are sampled near each force's HQ point,
+the sampling circles of geographically close forces can overlap and
+return the same real world crime more than once. `summary.json`'s
+`national` block de-duplicates by each crime's `persistent_id` before
+computing national totals (`crime_count`), and also keeps the naive
+`crime_count_raw_sum` (sum of each force's own count) for reference.
+Always use the deduplicated `national.crime_count` for any headline
+"total crimes this month" figure.
+
+### Per capita rates
+
+`summary.json` includes `population`, `population_source_year`, and
+`crime_rate_per_1000` per force, sourced from real ONS "Population
+estimates for Police Force Areas" mid year figures in
+[`config/force_population.json`](config/force_population.json).
+
+That file is generated (not hand edited) by
+[`scripts/build_force_population.py`](scripts/build_force_population.py)
+from an ONS PFA population workbook (single year of age/sex breakdown,
+mid 2011 to mid 2025 as of writing).
+
+The pipeline automatically picks whichever year in the workbook is
+closest to the month being compiled (clamped to the earliest/latest
+year available, e.g. a 2026 snapshot currently uses the mid 2025
+figures since that's the latest year ONS has published).
+
+Two forces are intentionally excluded from per capita rates regardless
+of data availability:
+- `city-of-london` - ONS reports a tiny resident population (~8-10k)
+  for the City of London PFA, but its policed footfall is dominated by
+  commuters/tourists, not residents - a crime per resident rate here
+  would be misleading rather than merely imprecise.
+- `btp` (British Transport Police) - polices the rail network, not a
+  geographic resident population.
+
+`northern-ireland` isn't covered by this ONS England & Wales workbook
+at all (PSNI is a separate NISRA jurisdiction) and currently uses a
+rough, **unverified** placeholder figure - replace it with a real NISRA/PSNI-sourced figure
+if precise Northern Ireland per capita rates matter for your use case.
+
+### Data retention
+
+By default, the publisher automatically prunes any snapshot
+month older than `RETENTION_YEARS` (default **10 years**) from the data
+repo on every run. Pruned months are removed in the same commit as the new snapshot, e.g.
+`Monthly update 2026-08 (pruned 1 month(s): 2016-08)`. History of pruned
+months is still recoverable from earlier git commits if ever needed.
+
+## Notes / limitations
+
+- The police.uk API is unauthenticated but rate limited,
+  throttles requests and retries transient failures (429/5xx/network
+  errors) with exponential backoff.
+- Failures for an individual force (e.g. one bad API call) don't abort
+  the whole run, they're recorded in `manifest.json` and the run
+  continues with the remaining forces.
+- `btp` (British Transport Police) has no fixed single HQ point and is
+  left unmapped (`null`) in `force_locations.json` by default.
+
+## Support this project
+You can support this project via our 
