@@ -1,0 +1,83 @@
+{
+  "month": "2026-03",
+  "started_at": "2026-09-19T06:25:59.826676+00:00",
+  "forces_total": 44,
+  "forces_with_geo": 44,
+  "forces_succeeded": [
+    "avon-and-somerset",
+    "bedfordshire",
+    "cambridgeshire",
+    "cheshire",
+    "city-of-london",
+    "cleveland",
+    "cumbria",
+    "derbyshire",
+    "devon-and-cornwall",
+    "dorset",
+    "durham",
+    "essex",
+    "gloucestershire",
+    "greater-manchester",
+    "gwent",
+    "hampshire",
+    "hertfordshire",
+    "humberside",
+    "kent",
+    "lancashire",
+    "leicestershire",
+    "lincolnshire",
+    "merseyside",
+    "metropolitan",
+    "norfolk",
+    "north-wales",
+    "north-yorkshire",
+    "northamptonshire",
+    "nottinghamshire",
+    "northern-ireland",
+    "south-wales",
+    "south-yorkshire",
+    "staffordshire",
+    "suffolk",
+    "surrey",
+    "sussex",
+    "warwickshire",
+    "west-mercia",
+    "west-midlands",
+    "west-yorkshire",
+    "wiltshire"
+  ],
+  "forces_failed": [
+    "dyfed-powys",
+    "northumbria",
+    "thames-valley"
+  ],
+  "forces_skipped_no_geo": [],
+  "errors": [
+    {
+      "stage": "crimes",
+      "force": "dyfed-powys",
+      "error": "POST https://data.police.uk/api/crimes-street/all-crime failed after 4 attempts: None"
+    },
+    {
+      "stage": "stop_and_search",
+      "force": "dyfed-powys",
+      "error": "POST https://data.police.uk/api/stops-street failed after 4 attempts: None"
+    },
+    {
+      "stage": "crimes",
+      "force": "northumbria",
+      "error": "POST https://data.police.uk/api/crimes-street/all-crime failed after 4 attempts: None"
+    },
+    {
+      "stage": "stop_and_search",
+      "force": "northumbria",
+      "error": "POST https://data.police.uk/api/stops-street failed after 4 attempts: None"
+    },
+    {
+      "stage": "stop_and_search",
+      "force": "thames-valley",
+      "error": "POST https://data.police.uk/api/stops-street failed after 4 attempts: None"
+    }
+  ],
+  "finished_at": "2026-09-19T06:38:43.893498+00:00"
+}

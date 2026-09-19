@@ -1,0 +1,419 @@
+[
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "52.021005",
+      "street": {
+        "id": 1572053,
+        "name": "On or near St Peters Lane"
+      },
+      "longitude": "-1.976768"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 133989496,
+    "location_subtype": "",
+    "month": "2026-03"
+  },
+  {
+    "category": "burglary",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.585577",
+      "street": {
+        "id": 1566062,
+        "name": "On or near Russell Close"
+      },
+      "longitude": "-2.266071"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2026-04"
+    },
+    "persistent_id": "6107f07709b16799b059cb191afcff373298cd16aedbb200c1d30cba795f2e8a",
+    "id": 134169573,
+    "location_subtype": "",
+    "month": "2026-03"
+  },
+  {
+    "category": "other-theft",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.838959",
+      "street": {
+        "id": 1563651,
+        "name": "On or near Parking Area"
+      },
+      "longitude": "-2.634105"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Local resolution",
+      "date": "2026-06"
+    },
+    "persistent_id": "2c9482ca2dd941b3a085f6976d194414c7f0df3e7d75979e5070e1920af848c7",
+    "id": 133976223,
+    "location_subtype": "",
+    "month": "2026-03"
+  },
+  {
+    "category": "other-theft",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.809260",
+      "street": {
+        "id": 1563951,
+        "name": "On or near Parking Area"
+      },
+      "longitude": "-2.569461"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2026-05"
+    },
+    "persistent_id": "64186b27e74e9990947d4caf511b716948aeeebca86c57dc86c528c8acd7757f",
+    "id": 134304573,
+    "location_subtype": "",
+    "month": "2026-03"
+  },
+  {
+    "category": "other-theft",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.706015",
+      "street": {
+        "id": 1563509,
+        "name": "On or near Causeway"
+      },
+      "longitude": "-2.666715"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2026-03"
+    },
+    "persistent_id": "4d089a649814e545a5ebc29744b6f6fba903166addebb301d2b4f5a4e85f134b",
+    "id": 135090592,
+    "location_subtype": "",
+    "month": "2026-03"
+  },
+  {
+    "category": "possession-of-weapons",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.842647",
+      "street": {
+        "id": 1567755,
+        "name": "On or near Penhill Road"
+      },
+      "longitude": "-2.220324"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Action to be taken by another organisation",
+      "date": "2026-04"
+    },
+    "persistent_id": "3c54c8327254e27b4f53ea7f361ffd3beb746c20d7bd04b28a2c8cd04d723c75",
+    "id": 134160323,
+    "location_subtype": "",
+    "month": "2026-03"
+  },
+  {
+    "category": "vehicle-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.915041",
+      "street": {
+        "id": 1571168,
+        "name": "On or near Lexington Square"
+      },
+      "longitude": "-2.066744"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2026-03"
+    },
+    "persistent_id": "fd766f84d9f31adba25242695b40b10cfcf97c6639ee5db5b18c8d8921cd5267",
+    "id": 134161411,
+    "location_subtype": "",
+    "month": "2026-03"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.870650",
+      "street": {
+        "id": 1567104,
+        "name": "On or near Sweetbriar Street"
+      },
+      "longitude": "-2.240955"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2026-07"
+    },
+    "persistent_id": "39d3ac72ae8c433cf46321cb1bab49268b6dd3f527f5d6a60ecc0da8263efa0b",
+    "id": 134317635,
+    "location_subtype": "",
+    "month": "2026-03"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.915041",
+      "street": {
+        "id": 1571168,
+        "name": "On or near Lexington Square"
+      },
+      "longitude": "-2.066744"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2026-07"
+    },
+    "persistent_id": "7b25781e16a8f71a2f9b841c16eb1ee357001484370931492bf8d324e48ea870",
+    "id": 134161369,
+    "location_subtype": "",
+    "month": "2026-03"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.851554",
+      "street": {
+        "id": 1567096,
+        "name": "On or near Wheatstone Road"
+      },
+      "longitude": "-2.240373"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2026-07"
+    },
+    "persistent_id": "c38a76500624e1cb841277442acecf98dbf39c5671b87d7634eb9f7d6af53633",
+    "id": 134163580,
+    "location_subtype": "",
+    "month": "2026-03"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.886966",
+      "street": {
+        "id": 1570972,
+        "name": "On or near Naunton Crescent"
+      },
+      "longitude": "-2.075260"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2026-03"
+    },
+    "persistent_id": "e8c244240d55ca553d92d56d864f9585079c2bfccb099c28103982dec0a4fbb3",
+    "id": 134155648,
+    "location_subtype": "",
+    "month": "2026-03"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.672494",
+      "street": {
+        "id": 1572637,
+        "name": "On or near Park/open Space"
+      },
+      "longitude": "-1.899724"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2026-07"
+    },
+    "persistent_id": "9634f14050b6296c3dd1c406211a8d6b7254dfc2f6654211ce474c199964c403",
+    "id": 134314483,
+    "location_subtype": "",
+    "month": "2026-03"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.860942",
+      "street": {
+        "id": 1566890,
+        "name": "On or near Brunswick Square"
+      },
+      "longitude": "-2.248265"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2026-03"
+    },
+    "persistent_id": "c9ffeabccbf073e68538ff7893416b27512d001e4087024902ebe9b7200e28be",
+    "id": 134317600,
+    "location_subtype": "",
+    "month": "2026-03"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.742175",
+      "street": {
+        "id": 1567607,
+        "name": "On or near Rodborough Avenue"
+      },
+      "longitude": "-2.223890"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2026-07"
+    },
+    "persistent_id": "10ebb85a1740c6f988919a1fbd5cb948efe6f91a99037ee336cbe5aeed611916",
+    "id": 134097404,
+    "location_subtype": "",
+    "month": "2026-03"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.838959",
+      "street": {
+        "id": 1563651,
+        "name": "On or near Parking Area"
+      },
+      "longitude": "-2.634105"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2026-04"
+    },
+    "persistent_id": "b5b811aee9d73829435dba433f8c6b984acb1ce4357c438515b6be5cd7baa05f",
+    "id": 133980966,
+    "location_subtype": "",
+    "month": "2026-03"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.860965",
+      "street": {
+        "id": 1567074,
+        "name": "On or near Belgrave Road"
+      },
+      "longitude": "-2.241716"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2026-03"
+    },
+    "persistent_id": "124b1f24a33c29ace72620c1613abd0a7de0e5f7ebb53ce1d08de5fcf954fde1",
+    "id": 134005184,
+    "location_subtype": "",
+    "month": "2026-03"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.816438",
+      "street": {
+        "id": 1566325,
+        "name": "On or near Naas Lane"
+      },
+      "longitude": "-2.272363"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2026-07"
+    },
+    "persistent_id": "e833de4dcc083dcc9823eb3163db2fce11709e3700d296b353a34a07f894ed78",
+    "id": 134269847,
+    "location_subtype": "",
+    "month": "2026-03"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.930114",
+      "street": {
+        "id": 1564969,
+        "name": "On or near Vauxhall"
+      },
+      "longitude": "-2.415563"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Action to be taken by another organisation",
+      "date": "2026-07"
+    },
+    "persistent_id": "ba7a0688e12270f0c9ead56e787ada49adc6fe1ba158e5cddb7c0ea971b17be3",
+    "id": 134316202,
+    "location_subtype": "",
+    "month": "2026-03"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.999915",
+      "street": {
+        "id": 1570496,
+        "name": "On or near Court Farm Close"
+      },
+      "longitude": "-2.092026"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2026-07"
+    },
+    "persistent_id": "f8252a0dac1d616acaca51e3b47548c4a5dc2cac7d2ea44fe0416bac66dabe49",
+    "id": 133970016,
+    "location_subtype": "",
+    "month": "2026-03"
+  },
+  {
+    "category": "other-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "52.003679",
+      "street": {
+        "id": 1571086,
+        "name": "On or near A435"
+      },
+      "longitude": "-2.053649"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2026-03"
+    },
+    "persistent_id": "ba34eb99d26973d3f22b41d4badf3c6db043000ce1248bd79f5f89c7c8abef86",
+    "id": 133980740,
+    "location_subtype": "",
+    "month": "2026-03"
+  }
+]
