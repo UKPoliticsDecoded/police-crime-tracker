@@ -14,6 +14,15 @@ pushed anywhere by the pipeline, it just needs to run on the production
 server. Only the generated `data/<YYYY-MM>/` JSON snapshots are pushed to
 the target repo.
 
+## How to reference this data
+When using figures derived from this repository in reporting, analysis, or commentary, please reference the underlying official sources alongside UKPoliticsDecoded’s processing. Appropriate wording includes:
+
+“According to UKPoliticsDecoded’s analysis of Police.uk monthly crime data…”
+
+“Based on UKPoliticsDecoded’s processing of ONS mid‑2025 population estimates…”
+
+“UKPoliticsDecoded’s Crime & Justice Tracker shows that…”
+
 ## What it fetches
 
 For each monthly run:
