@@ -7,11 +7,14 @@ The purpose of this repository is to provide transparent, reproducible, machine�
 This dataset is not an official statistical product. It is an independent analysis layer built on public data sources. Users should always verify figures with Police.uk, ONS, or individual police force publications before relying on them for significant decisions.
 
 Main Website: https://ukpoliticsdecoded.uk/
+
 UK Politics Decoded Crime Tracker Dashboard: https://crime-tracker.ukpoliticsdecoded.uk/
+
 
 ## Support this project
 You can support this project via our ko-fi page.
 https://ko-fi.com/ukpoliticsdecoded
+
 
 ## Pipeline
 A Python data pipeline that pulls monthly statistics from the
@@ -37,6 +40,7 @@ When using figures derived from this repository in reporting, analysis, or comme
 
 “UKPoliticsDecoded’s Crime & Justice Tracker shows that…”
 
+
 ## What it fetches
 
 For each monthly run:
@@ -54,6 +58,7 @@ lat/lng points are maintained in [`config/force_locations.json`](config/force_lo
 Review/refine these coordinates as needed, forces with a `null` entry
 are skipped for the geo dependent endpoints (crimes/stop-search) but
 still get their force details/summary recorded.
+
 
 ## Output layout (per run)
 
@@ -77,6 +82,7 @@ The same structure is copied into the target GitHub repo under
   per force headline stats) so the dashboard can render trend charts
   without fetching/parsing every month's full `summary.json`.
 
+
 ### National rollup & de-duplication
 
 Because crimes/stop-and-search are sampled near each force's HQ point,
@@ -87,6 +93,7 @@ computing national totals (`crime_count`), and also keeps the naive
 `crime_count_raw_sum` (sum of each force's own count) for reference.
 Always use the deduplicated `national.crime_count` for any headline
 "total crimes this month" figure.
+
 
 ### Per capita rates
 
@@ -119,6 +126,7 @@ at all (PSNI is a separate NISRA jurisdiction) and currently uses a
 rough, **unverified** placeholder figure, replace it with a real NISRA/PSNI sourced figure
 if precise Northern Ireland per capita rates matter for your use case.
 
+
 ### Data retention
 
 By default, the publisher automatically prunes any snapshot
@@ -126,6 +134,7 @@ month older than `RETENTION_YEARS` (default **10 years**) from the data
 repo on every run. Pruned months are removed in the same commit as the new snapshot, e.g.
 `Monthly update 2026-08 (pruned 1 month(s): 2016-08)`. History of pruned
 months is still recoverable from earlier git commits if ever needed.
+
 
 ## Notes / limitations
 
