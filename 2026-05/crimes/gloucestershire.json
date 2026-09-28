@@ -3,17 +3,17 @@
     "category": "anti-social-behaviour",
     "location_type": "Force",
     "location": {
-      "latitude": "51.930816",
+      "latitude": "51.655816",
       "street": {
-        "id": 1573294,
-        "name": "On or near Shepherds Way"
+        "id": 1565330,
+        "name": "On or near Big Ride"
       },
-      "longitude": "-1.717893"
+      "longitude": "-2.360516"
     },
     "context": "",
     "outcome_status": null,
     "persistent_id": "",
-    "id": 135006563,
+    "id": 135185639,
     "location_subtype": "",
     "month": "2026-05"
   },
@@ -39,24 +39,6 @@
     "category": "anti-social-behaviour",
     "location_type": "Force",
     "location": {
-      "latitude": "51.886966",
-      "street": {
-        "id": 1570972,
-        "name": "On or near Naunton Crescent"
-      },
-      "longitude": "-2.075260"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 135158335,
-    "location_subtype": "",
-    "month": "2026-05"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
       "latitude": "51.991751",
       "street": {
         "id": 1572564,
@@ -68,24 +50,6 @@
     "outcome_status": null,
     "persistent_id": "",
     "id": 135159490,
-    "location_subtype": "",
-    "month": "2026-05"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.655816",
-      "street": {
-        "id": 1565330,
-        "name": "On or near Big Ride"
-      },
-      "longitude": "-2.360516"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 135185639,
     "location_subtype": "",
     "month": "2026-05"
   },
@@ -121,7 +85,7 @@
     "context": "",
     "outcome_status": null,
     "persistent_id": "",
-    "id": 135005049,
+    "id": 135158335,
     "location_subtype": "",
     "month": "2026-05"
   },
@@ -140,6 +104,42 @@
     "outcome_status": null,
     "persistent_id": "",
     "id": 135158392,
+    "location_subtype": "",
+    "month": "2026-05"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.930816",
+      "street": {
+        "id": 1573294,
+        "name": "On or near Shepherds Way"
+      },
+      "longitude": "-1.717893"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 135006563,
+    "location_subtype": "",
+    "month": "2026-05"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.886966",
+      "street": {
+        "id": 1570972,
+        "name": "On or near Naunton Crescent"
+      },
+      "longitude": "-2.075260"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 135005049,
     "location_subtype": "",
     "month": "2026-05"
   },
@@ -273,27 +273,6 @@
     "category": "violent-crime",
     "location_type": "Force",
     "location": {
-      "latitude": "51.954409",
-      "street": {
-        "id": 1571088,
-        "name": "On or near Opal Way"
-      },
-      "longitude": "-2.071604"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Unable to prosecute suspect",
-      "date": "2026-05"
-    },
-    "persistent_id": "c9bdd2f1a878ad0d9e2a214ae747377e15a8c707474338601474ae259d4bb95a",
-    "id": 135215929,
-    "location_subtype": "",
-    "month": "2026-05"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
       "latitude": "51.801812",
       "street": {
         "id": 1563943,
@@ -315,20 +294,20 @@
     "category": "violent-crime",
     "location_type": "Force",
     "location": {
-      "latitude": "51.873583",
+      "latitude": "51.983216",
       "street": {
-        "id": 1566940,
-        "name": "On or near Dean's Terrace"
+        "id": 1569238,
+        "name": "On or near Theocs Close"
       },
-      "longitude": "-2.244064"
+      "longitude": "-2.161533"
     },
     "context": "",
     "outcome_status": {
       "category": "Unable to prosecute suspect",
-      "date": "2026-05"
+      "date": "2026-06"
     },
-    "persistent_id": "d858f33ee5775d858766f8575ec57d784beb1934573f3f0fded84554e66f1dc5",
-    "id": 135032235,
+    "persistent_id": "d136b1d68cd4d24aa0b2f38fd83212584fc358e54c870ec2bd3e11112dd35955",
+    "id": 135007609,
     "location_subtype": "",
     "month": "2026-05"
   },
@@ -336,20 +315,83 @@
     "category": "violent-crime",
     "location_type": "Force",
     "location": {
-      "latitude": "51.808019",
+      "latitude": "51.954409",
       "street": {
-        "id": 1566123,
-        "name": "On or near Haresfield Lane"
+        "id": 1571088,
+        "name": "On or near Opal Way"
       },
-      "longitude": "-2.284974"
+      "longitude": "-2.071604"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2026-05"
+    },
+    "persistent_id": "c9bdd2f1a878ad0d9e2a214ae747377e15a8c707474338601474ae259d4bb95a",
+    "id": 135215929,
+    "location_subtype": "",
+    "month": "2026-05"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.840846",
+      "street": {
+        "id": 1566345,
+        "name": "On or near Netheridge Close"
+      },
+      "longitude": "-2.273468"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Under investigation",
+      "date": "2026-05"
+    },
+    "persistent_id": "62237f0a7a8f899f2b2ee0bb26ff8906a791c8c4b7ee96a75e3f6de6de159619",
+    "id": 135203661,
+    "location_subtype": "",
+    "month": "2026-05"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.864827",
+      "street": {
+        "id": 1566899,
+        "name": "On or near Parking Area"
+      },
+      "longitude": "-2.248170"
     },
     "context": "",
     "outcome_status": {
       "category": "Action to be taken by another organisation",
       "date": "2026-05"
     },
-    "persistent_id": "ae8c77e75d2abcd05d034f81f6d2e81724c62f7babd420ec7512da9494a604a5",
-    "id": 135210585,
+    "persistent_id": "162507751e7ce0897e4297641929f83da4bad805f69fb43b47dd5f0027a539af",
+    "id": 135209703,
+    "location_subtype": "",
+    "month": "2026-05"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.706138",
+      "street": {
+        "id": 1572398,
+        "name": "On or near Nursery Road"
+      },
+      "longitude": "-1.958028"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2026-06"
+    },
+    "persistent_id": "623ef8dcfea03123e67b2ee3c3856874397ddd1e151dc76c53690d3b8bdc666b",
+    "id": 135192491,
     "location_subtype": "",
     "month": "2026-05"
   },
@@ -399,41 +441,20 @@
     "category": "violent-crime",
     "location_type": "Force",
     "location": {
-      "latitude": "51.840846",
+      "latitude": "51.622620",
       "street": {
-        "id": 1566345,
-        "name": "On or near Netheridge Close"
+        "id": 1565242,
+        "name": "On or near Somerset Close"
       },
-      "longitude": "-2.273468"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Under investigation",
-      "date": "2026-05"
-    },
-    "persistent_id": "62237f0a7a8f899f2b2ee0bb26ff8906a791c8c4b7ee96a75e3f6de6de159619",
-    "id": 135203661,
-    "location_subtype": "",
-    "month": "2026-05"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.983216",
-      "street": {
-        "id": 1569238,
-        "name": "On or near Theocs Close"
-      },
-      "longitude": "-2.161533"
+      "longitude": "-2.369440"
     },
     "context": "",
     "outcome_status": {
       "category": "Unable to prosecute suspect",
-      "date": "2026-06"
+      "date": "2026-07"
     },
-    "persistent_id": "d136b1d68cd4d24aa0b2f38fd83212584fc358e54c870ec2bd3e11112dd35955",
-    "id": 135007609,
+    "persistent_id": "1f676fad744e8b8ee3fa0eca1d8a3e0ad6780488200901ef63166eaa92355f81",
+    "id": 135211045,
     "location_subtype": "",
     "month": "2026-05"
   },
@@ -441,20 +462,20 @@
     "category": "violent-crime",
     "location_type": "Force",
     "location": {
-      "latitude": "51.715816",
+      "latitude": "51.873583",
       "street": {
-        "id": 1572236,
-        "name": "On or near Nightclub"
+        "id": 1566940,
+        "name": "On or near Dean's Terrace"
       },
-      "longitude": "-1.968489"
+      "longitude": "-2.244064"
     },
     "context": "",
     "outcome_status": {
-      "category": "Under investigation",
+      "category": "Unable to prosecute suspect",
       "date": "2026-05"
     },
-    "persistent_id": "8ed9c346e1b492285e2b30c7bc2689cbeb3d41307f5082fe3e6257b9223d324d",
-    "id": 135004925,
+    "persistent_id": "d858f33ee5775d858766f8575ec57d784beb1934573f3f0fded84554e66f1dc5",
+    "id": 135032235,
     "location_subtype": "",
     "month": "2026-05"
   },
@@ -483,20 +504,20 @@
     "category": "violent-crime",
     "location_type": "Force",
     "location": {
-      "latitude": "51.622620",
+      "latitude": "51.715816",
       "street": {
-        "id": 1565242,
-        "name": "On or near Somerset Close"
+        "id": 1572236,
+        "name": "On or near Nightclub"
       },
-      "longitude": "-2.369440"
+      "longitude": "-1.968489"
     },
     "context": "",
     "outcome_status": {
-      "category": "Unable to prosecute suspect",
-      "date": "2026-07"
+      "category": "Under investigation",
+      "date": "2026-05"
     },
-    "persistent_id": "1f676fad744e8b8ee3fa0eca1d8a3e0ad6780488200901ef63166eaa92355f81",
-    "id": 135211045,
+    "persistent_id": "8ed9c346e1b492285e2b30c7bc2689cbeb3d41307f5082fe3e6257b9223d324d",
+    "id": 135004925,
     "location_subtype": "",
     "month": "2026-05"
   },
@@ -567,41 +588,20 @@
     "category": "violent-crime",
     "location_type": "Force",
     "location": {
-      "latitude": "51.864827",
+      "latitude": "51.808019",
       "street": {
-        "id": 1566899,
-        "name": "On or near Parking Area"
+        "id": 1566123,
+        "name": "On or near Haresfield Lane"
       },
-      "longitude": "-2.248170"
+      "longitude": "-2.284974"
     },
     "context": "",
     "outcome_status": {
       "category": "Action to be taken by another organisation",
       "date": "2026-05"
     },
-    "persistent_id": "162507751e7ce0897e4297641929f83da4bad805f69fb43b47dd5f0027a539af",
-    "id": 135209703,
-    "location_subtype": "",
-    "month": "2026-05"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.706138",
-      "street": {
-        "id": 1572398,
-        "name": "On or near Nursery Road"
-      },
-      "longitude": "-1.958028"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Unable to prosecute suspect",
-      "date": "2026-06"
-    },
-    "persistent_id": "623ef8dcfea03123e67b2ee3c3856874397ddd1e151dc76c53690d3b8bdc666b",
-    "id": 135192491,
+    "persistent_id": "ae8c77e75d2abcd05d034f81f6d2e81724c62f7babd420ec7512da9494a604a5",
+    "id": 135210585,
     "location_subtype": "",
     "month": "2026-05"
   },
