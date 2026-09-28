@@ -1,5 +1,61 @@
 [
   {
+    "age_range": "25-34",
+    "outcome": "A no further action disposal",
+    "involved_person": true,
+    "self_defined_ethnicity": "Black/African/Caribbean/Black British - African",
+    "gender": "Male",
+    "legislation": "Police and Criminal Evidence Act 1984 (section 1)",
+    "outcome_linked_to_object_of_search": null,
+    "datetime": "2026-07-31T02:38:20+00:00",
+    "removal_of_more_than_outer_clothing": false,
+    "outcome_object": {
+      "id": "bu-no-further-action",
+      "name": "A no further action disposal"
+    },
+    "location": {
+      "latitude": "53.047233",
+      "street": {
+        "id": 1516287,
+        "name": "On or near Duke Street"
+      },
+      "longitude": "-2.996436"
+    },
+    "operation": null,
+    "officer_defined_ethnicity": "Black",
+    "type": "Person search",
+    "operation_name": null,
+    "object_of_search": "Offensive weapons"
+  },
+  {
+    "age_range": "18-24",
+    "outcome": "A no further action disposal",
+    "involved_person": true,
+    "self_defined_ethnicity": "White - English/Welsh/Scottish/Northern Irish/British",
+    "gender": "Male",
+    "legislation": "Misuse of Drugs Act 1971 (section 23)",
+    "outcome_linked_to_object_of_search": false,
+    "datetime": "2026-06-30T23:10:00+00:00",
+    "removal_of_more_than_outer_clothing": false,
+    "outcome_object": {
+      "id": "bu-no-further-action",
+      "name": "A no further action disposal"
+    },
+    "location": {
+      "latitude": "53.199331",
+      "street": {
+        "id": 2166721,
+        "name": "On or near Hafod Close"
+      },
+      "longitude": "-2.936878"
+    },
+    "operation": null,
+    "officer_defined_ethnicity": "White",
+    "type": "Person search",
+    "operation_name": null,
+    "object_of_search": "Controlled drugs"
+  },
+  {
     "age_range": null,
     "outcome": "Community resolution",
     "involved_person": true,
@@ -812,225 +868,57 @@
     "object_of_search": "Offensive weapons"
   },
   {
-    "age_range": "over 34",
-    "outcome": "A no further action disposal",
-    "involved_person": true,
-    "self_defined_ethnicity": "White - English/Welsh/Scottish/Northern Irish/British",
-    "gender": "Female",
-    "legislation": "Misuse of Drugs Act 1971 (section 23)",
-    "outcome_linked_to_object_of_search": false,
-    "datetime": "2026-07-13T02:43:00+00:00",
-    "removal_of_more_than_outer_clothing": false,
-    "outcome_object": {
-      "id": "bu-no-further-action",
-      "name": "A no further action disposal"
-    },
-    "location": {
-      "latitude": "53.328213",
-      "street": {
-        "id": 1510948,
-        "name": "On or near Carlisle Avenue"
-      },
-      "longitude": "-3.472223"
-    },
-    "operation": null,
-    "officer_defined_ethnicity": "Other",
-    "type": "Person search",
-    "operation_name": null,
-    "object_of_search": "Controlled drugs"
-  },
-  {
-    "age_range": "over 34",
-    "outcome": "Arrest",
-    "involved_person": true,
-    "self_defined_ethnicity": "White - English/Welsh/Scottish/Northern Irish/British",
-    "gender": "Male",
-    "legislation": "Misuse of Drugs Act 1971 (section 23)",
-    "outcome_linked_to_object_of_search": true,
-    "datetime": "2026-07-13T03:57:00+00:00",
-    "removal_of_more_than_outer_clothing": false,
-    "outcome_object": {
-      "id": "bu-arrest",
-      "name": "Arrest"
-    },
-    "location": {
-      "latitude": "52.747972",
-      "street": {
-        "id": 1508152,
-        "name": "On or near Parking Area"
-      },
-      "longitude": "-3.980137"
-    },
-    "operation": null,
-    "officer_defined_ethnicity": "White",
-    "type": "Person search",
-    "operation_name": null,
-    "object_of_search": "Controlled drugs"
-  },
-  {
-    "age_range": "over 34",
-    "outcome": "Arrest",
-    "involved_person": true,
-    "self_defined_ethnicity": "White - English/Welsh/Scottish/Northern Irish/British",
-    "gender": "Male",
-    "legislation": "Misuse of Drugs Act 1971 (section 23)",
-    "outcome_linked_to_object_of_search": true,
-    "datetime": "2026-07-13T06:15:00+00:00",
-    "removal_of_more_than_outer_clothing": false,
-    "outcome_object": {
-      "id": "bu-arrest",
-      "name": "Arrest"
-    },
-    "location": {
-      "latitude": "53.212808",
-      "street": {
-        "id": 1515295,
-        "name": "On or near Parking Area"
-      },
-      "longitude": "-3.039614"
-    },
-    "operation": null,
-    "officer_defined_ethnicity": "White",
-    "type": "Person search",
-    "operation_name": null,
-    "object_of_search": "Evidence of offences under the Act"
-  },
-  {
-    "age_range": "10-17",
-    "outcome": "",
-    "involved_person": true,
-    "self_defined_ethnicity": "Other ethnic group - Not stated",
-    "gender": "Male",
-    "legislation": "Misuse of Drugs Act 1971 (section 23)",
-    "outcome_linked_to_object_of_search": true,
-    "datetime": "2026-07-13T13:07:00+00:00",
-    "removal_of_more_than_outer_clothing": false,
-    "outcome_object": {
-      "id": "",
-      "name": ""
-    },
-    "location": {
-      "latitude": "53.226766",
-      "street": {
-        "id": 1507388,
-        "name": "On or near Stryd Waterloo"
-      },
-      "longitude": "-4.126380"
-    },
-    "operation": null,
-    "officer_defined_ethnicity": "White",
-    "type": "Person search",
-    "operation_name": null,
-    "object_of_search": "Controlled drugs"
-  },
-  {
-    "age_range": "10-17",
-    "outcome": "A no further action disposal",
-    "involved_person": true,
-    "self_defined_ethnicity": "White - English/Welsh/Scottish/Northern Irish/British",
-    "gender": "Male",
-    "legislation": "Misuse of Drugs Act 1971 (section 23)",
-    "outcome_linked_to_object_of_search": false,
-    "datetime": "2026-07-13T13:16:00+00:00",
-    "removal_of_more_than_outer_clothing": false,
-    "outcome_object": {
-      "id": "bu-no-further-action",
-      "name": "A no further action disposal"
-    },
-    "location": {
-      "latitude": "53.226766",
-      "street": {
-        "id": 1507388,
-        "name": "On or near Stryd Waterloo"
-      },
-      "longitude": "-4.126380"
-    },
-    "operation": null,
-    "officer_defined_ethnicity": "Other",
-    "type": "Person search",
-    "operation_name": null,
-    "object_of_search": "Controlled drugs"
-  },
-  {
     "age_range": "25-34",
     "outcome": "A no further action disposal",
     "involved_person": true,
     "self_defined_ethnicity": "White - English/Welsh/Scottish/Northern Irish/British",
-    "gender": "Male",
+    "gender": null,
     "legislation": "Police and Criminal Evidence Act 1984 (section 1)",
     "outcome_linked_to_object_of_search": false,
-    "datetime": "2026-07-14T02:20:00+00:00",
+    "datetime": "2026-07-13T15:29:00+00:00",
     "removal_of_more_than_outer_clothing": false,
     "outcome_object": {
       "id": "bu-no-further-action",
       "name": "A no further action disposal"
     },
     "location": {
-      "latitude": "53.068379",
+      "latitude": "53.320971",
       "street": {
-        "id": 1515697,
-        "name": "On or near Summerhill Road"
+        "id": 1510766,
+        "name": "On or near Sussex Lane"
       },
-      "longitude": "-3.025744"
+      "longitude": "-3.493653"
     },
     "operation": null,
     "officer_defined_ethnicity": "Other",
     "type": "Person search",
     "operation_name": null,
-    "object_of_search": "Offensive weapons"
-  },
-  {
-    "age_range": "25-34",
-    "outcome": "A no further action disposal",
-    "involved_person": true,
-    "self_defined_ethnicity": "Black/African/Caribbean/Black British - African",
-    "gender": "Male",
-    "legislation": "Police and Criminal Evidence Act 1984 (section 1)",
-    "outcome_linked_to_object_of_search": null,
-    "datetime": "2026-07-31T02:38:20+00:00",
-    "removal_of_more_than_outer_clothing": false,
-    "outcome_object": {
-      "id": "bu-no-further-action",
-      "name": "A no further action disposal"
-    },
-    "location": {
-      "latitude": "53.047233",
-      "street": {
-        "id": 1516287,
-        "name": "On or near Duke Street"
-      },
-      "longitude": "-2.996436"
-    },
-    "operation": null,
-    "officer_defined_ethnicity": "Black",
-    "type": "Person search",
-    "operation_name": null,
-    "object_of_search": "Offensive weapons"
+    "object_of_search": "Stolen goods"
   },
   {
     "age_range": "18-24",
-    "outcome": "A no further action disposal",
+    "outcome": "Community resolution",
     "involved_person": true,
     "self_defined_ethnicity": "White - English/Welsh/Scottish/Northern Irish/British",
     "gender": "Male",
     "legislation": "Misuse of Drugs Act 1971 (section 23)",
     "outcome_linked_to_object_of_search": false,
-    "datetime": "2026-06-30T23:10:00+00:00",
+    "datetime": "2026-07-13T16:09:00+00:00",
     "removal_of_more_than_outer_clothing": false,
     "outcome_object": {
-      "id": "bu-no-further-action",
-      "name": "A no further action disposal"
+      "id": "bu-community-resolution",
+      "name": "Community resolution"
     },
     "location": {
-      "latitude": "53.199331",
+      "latitude": "53.044465",
       "street": {
-        "id": 2166721,
-        "name": "On or near Hafod Close"
+        "id": 1516378,
+        "name": "On or near Nightclub"
       },
-      "longitude": "-2.936878"
+      "longitude": "-2.995254"
     },
     "operation": null,
-    "officer_defined_ethnicity": "White",
+    "officer_defined_ethnicity": "Other",
     "type": "Person search",
     "operation_name": null,
     "object_of_search": "Controlled drugs"
@@ -3024,57 +2912,113 @@
     "object_of_search": "Controlled drugs"
   },
   {
-    "age_range": "25-34",
+    "age_range": "over 34",
     "outcome": "A no further action disposal",
     "involved_person": true,
     "self_defined_ethnicity": "White - English/Welsh/Scottish/Northern Irish/British",
-    "gender": null,
-    "legislation": "Police and Criminal Evidence Act 1984 (section 1)",
+    "gender": "Female",
+    "legislation": "Misuse of Drugs Act 1971 (section 23)",
     "outcome_linked_to_object_of_search": false,
-    "datetime": "2026-07-13T15:29:00+00:00",
+    "datetime": "2026-07-13T02:43:00+00:00",
     "removal_of_more_than_outer_clothing": false,
     "outcome_object": {
       "id": "bu-no-further-action",
       "name": "A no further action disposal"
     },
     "location": {
-      "latitude": "53.320971",
+      "latitude": "53.328213",
       "street": {
-        "id": 1510766,
-        "name": "On or near Sussex Lane"
+        "id": 1510948,
+        "name": "On or near Carlisle Avenue"
       },
-      "longitude": "-3.493653"
+      "longitude": "-3.472223"
     },
     "operation": null,
     "officer_defined_ethnicity": "Other",
     "type": "Person search",
     "operation_name": null,
-    "object_of_search": "Stolen goods"
+    "object_of_search": "Controlled drugs"
   },
   {
-    "age_range": "18-24",
-    "outcome": "Community resolution",
+    "age_range": "over 34",
+    "outcome": "Arrest",
     "involved_person": true,
     "self_defined_ethnicity": "White - English/Welsh/Scottish/Northern Irish/British",
     "gender": "Male",
     "legislation": "Misuse of Drugs Act 1971 (section 23)",
-    "outcome_linked_to_object_of_search": false,
-    "datetime": "2026-07-13T16:09:00+00:00",
+    "outcome_linked_to_object_of_search": true,
+    "datetime": "2026-07-13T03:57:00+00:00",
     "removal_of_more_than_outer_clothing": false,
     "outcome_object": {
-      "id": "bu-community-resolution",
-      "name": "Community resolution"
+      "id": "bu-arrest",
+      "name": "Arrest"
     },
     "location": {
-      "latitude": "53.044465",
+      "latitude": "52.747972",
       "street": {
-        "id": 1516378,
-        "name": "On or near Nightclub"
+        "id": 1508152,
+        "name": "On or near Parking Area"
       },
-      "longitude": "-2.995254"
+      "longitude": "-3.980137"
     },
     "operation": null,
-    "officer_defined_ethnicity": "Other",
+    "officer_defined_ethnicity": "White",
+    "type": "Person search",
+    "operation_name": null,
+    "object_of_search": "Controlled drugs"
+  },
+  {
+    "age_range": "over 34",
+    "outcome": "Arrest",
+    "involved_person": true,
+    "self_defined_ethnicity": "White - English/Welsh/Scottish/Northern Irish/British",
+    "gender": "Male",
+    "legislation": "Misuse of Drugs Act 1971 (section 23)",
+    "outcome_linked_to_object_of_search": true,
+    "datetime": "2026-07-13T06:15:00+00:00",
+    "removal_of_more_than_outer_clothing": false,
+    "outcome_object": {
+      "id": "bu-arrest",
+      "name": "Arrest"
+    },
+    "location": {
+      "latitude": "53.212808",
+      "street": {
+        "id": 1515295,
+        "name": "On or near Parking Area"
+      },
+      "longitude": "-3.039614"
+    },
+    "operation": null,
+    "officer_defined_ethnicity": "White",
+    "type": "Person search",
+    "operation_name": null,
+    "object_of_search": "Evidence of offences under the Act"
+  },
+  {
+    "age_range": "10-17",
+    "outcome": "",
+    "involved_person": true,
+    "self_defined_ethnicity": "Other ethnic group - Not stated",
+    "gender": "Male",
+    "legislation": "Misuse of Drugs Act 1971 (section 23)",
+    "outcome_linked_to_object_of_search": true,
+    "datetime": "2026-07-13T13:07:00+00:00",
+    "removal_of_more_than_outer_clothing": false,
+    "outcome_object": {
+      "id": "",
+      "name": ""
+    },
+    "location": {
+      "latitude": "53.226766",
+      "street": {
+        "id": 1507388,
+        "name": "On or near Stryd Waterloo"
+      },
+      "longitude": "-4.126380"
+    },
+    "operation": null,
+    "officer_defined_ethnicity": "White",
     "type": "Person search",
     "operation_name": null,
     "object_of_search": "Controlled drugs"
@@ -3111,23 +3055,23 @@
     "age_range": "10-17",
     "outcome": "A no further action disposal",
     "involved_person": true,
-    "self_defined_ethnicity": "Black/African/Caribbean/Black British - African",
+    "self_defined_ethnicity": "White - English/Welsh/Scottish/Northern Irish/British",
     "gender": "Male",
     "legislation": "Misuse of Drugs Act 1971 (section 23)",
     "outcome_linked_to_object_of_search": false,
-    "datetime": "2026-07-13T16:53:00+00:00",
+    "datetime": "2026-07-13T13:16:00+00:00",
     "removal_of_more_than_outer_clothing": false,
     "outcome_object": {
       "id": "bu-no-further-action",
       "name": "A no further action disposal"
     },
     "location": {
-      "latitude": "53.282042",
+      "latitude": "53.226766",
       "street": {
-        "id": 1509191,
-        "name": "On or near River View Terrace"
+        "id": 1507388,
+        "name": "On or near Stryd Waterloo"
       },
-      "longitude": "-3.803381"
+      "longitude": "-4.126380"
     },
     "operation": null,
     "officer_defined_ethnicity": "Other",
@@ -3136,85 +3080,141 @@
     "object_of_search": "Controlled drugs"
   },
   {
-    "age_range": "18-24",
+    "age_range": "25-34",
+    "outcome": "A no further action disposal",
+    "involved_person": true,
+    "self_defined_ethnicity": "White - English/Welsh/Scottish/Northern Irish/British",
+    "gender": "Male",
+    "legislation": "Police and Criminal Evidence Act 1984 (section 1)",
+    "outcome_linked_to_object_of_search": false,
+    "datetime": "2026-07-14T02:20:00+00:00",
+    "removal_of_more_than_outer_clothing": false,
+    "outcome_object": {
+      "id": "bu-no-further-action",
+      "name": "A no further action disposal"
+    },
+    "location": {
+      "latitude": "53.068379",
+      "street": {
+        "id": 1515697,
+        "name": "On or near Summerhill Road"
+      },
+      "longitude": "-3.025744"
+    },
+    "operation": null,
+    "officer_defined_ethnicity": "Other",
+    "type": "Person search",
+    "operation_name": null,
+    "object_of_search": "Offensive weapons"
+  },
+  {
+    "age_range": "over 34",
+    "outcome": "Community resolution",
+    "involved_person": true,
+    "self_defined_ethnicity": "Black/African/Caribbean/Black British - African",
+    "gender": "Male",
+    "legislation": "Misuse of Drugs Act 1971 (section 23)",
+    "outcome_linked_to_object_of_search": true,
+    "datetime": "2026-07-14T02:28:00+00:00",
+    "removal_of_more_than_outer_clothing": false,
+    "outcome_object": {
+      "id": "bu-community-resolution",
+      "name": "Community resolution"
+    },
+    "location": {
+      "latitude": "53.063504",
+      "street": {
+        "id": 1515635,
+        "name": "On or near B5433"
+      },
+      "longitude": "-3.030224"
+    },
+    "operation": null,
+    "officer_defined_ethnicity": "Black",
+    "type": "Person search",
+    "operation_name": null,
+    "object_of_search": "Controlled drugs"
+  },
+  {
+    "age_range": "25-34",
     "outcome": "A no further action disposal",
     "involved_person": true,
     "self_defined_ethnicity": "White - English/Welsh/Scottish/Northern Irish/British",
     "gender": "Male",
     "legislation": "Misuse of Drugs Act 1971 (section 23)",
     "outcome_linked_to_object_of_search": false,
-    "datetime": "2026-07-13T20:29:00+00:00",
+    "datetime": "2026-07-14T03:19:00+00:00",
     "removal_of_more_than_outer_clothing": false,
     "outcome_object": {
       "id": "bu-no-further-action",
       "name": "A no further action disposal"
     },
     "location": {
-      "latitude": "53.222725",
+      "latitude": "53.002349",
       "street": {
-        "id": 1507224,
-        "name": "On or near Parking Area"
+        "id": 1515193,
+        "name": "On or near Ruabon Road"
       },
-      "longitude": "-4.134659"
+      "longitude": "-3.042522"
     },
     "operation": null,
-    "officer_defined_ethnicity": "Other",
+    "officer_defined_ethnicity": "White",
     "type": "Person search",
     "operation_name": null,
     "object_of_search": "Controlled drugs"
   },
   {
-    "age_range": "18-24",
-    "outcome": "Community resolution",
+    "age_range": "10-17",
+    "outcome": "A no further action disposal",
     "involved_person": true,
     "self_defined_ethnicity": "White - English/Welsh/Scottish/Northern Irish/British",
-    "gender": null,
-    "legislation": "Police and Criminal Evidence Act 1984 (section 1)",
-    "outcome_linked_to_object_of_search": true,
-    "datetime": "2026-07-13T22:40:00+00:00",
+    "gender": "Male",
+    "legislation": "Misuse of Drugs Act 1971 (section 23)",
+    "outcome_linked_to_object_of_search": false,
+    "datetime": "2026-07-14T03:07:00+00:00",
     "removal_of_more_than_outer_clothing": false,
     "outcome_object": {
-      "id": "bu-community-resolution",
-      "name": "Community resolution"
+      "id": "bu-no-further-action",
+      "name": "A no further action disposal"
     },
     "location": {
-      "latitude": "53.047233",
+      "latitude": "53.289192",
       "street": {
-        "id": 1516287,
-        "name": "On or near Duke Street"
+        "id": 1509895,
+        "name": "On or near Kyffin Close"
       },
-      "longitude": "-2.996436"
+      "longitude": "-3.705444"
     },
     "operation": null,
     "officer_defined_ethnicity": "White",
     "type": "Person search",
     "operation_name": null,
-    "object_of_search": "Stolen goods"
+    "object_of_search": "Evidence of offences under the Act"
   },
   {
     "age_range": "18-24",
-    "outcome": "Community resolution",
+    "outcome": "Arrest",
     "involved_person": true,
     "self_defined_ethnicity": "White - English/Welsh/Scottish/Northern Irish/British",
     "gender": "Male",
     "legislation": "Police and Criminal Evidence Act 1984 (section 1)",
-    "outcome_linked_to_object_of_search": true,
-    "datetime": "2026-07-14T00:25:00+00:00",
+    "outcome_linked_to_object_of_search": false,
+    "datetime": "2026-07-14T04:04:00+00:00",
     "removal_of_more_than_outer_clothing": false,
     "outcome_object": {
-      "id": "bu-community-resolution",
-      "name": "Community resolution"
+      "id": "bu-arrest",
+      "name": "Arrest"
     },
     "location": {
-      "latitude": "53.047233",
+      "latitude": "53.047302",
       "street": {
-        "id": 1516287,
-        "name": "On or near Duke Street"
+        "id": 1514507,
+        "name": "On or near Rhos Berse Road"
       },
-      "longitude": "-2.996436"
+      "longitude": "-3.057241"
     },
     "operation": null,
-    "officer_defined_ethnicity": "White",
+    "officer_defined_ethnicity": "Other",
     "type": "Person search",
     "operation_name": null,
     "object_of_search": "Stolen goods"
@@ -7227,11 +7227,39 @@
     "age_range": "10-17",
     "outcome": "A no further action disposal",
     "involved_person": true,
+    "self_defined_ethnicity": "Black/African/Caribbean/Black British - African",
+    "gender": "Male",
+    "legislation": "Misuse of Drugs Act 1971 (section 23)",
+    "outcome_linked_to_object_of_search": false,
+    "datetime": "2026-07-13T16:53:00+00:00",
+    "removal_of_more_than_outer_clothing": false,
+    "outcome_object": {
+      "id": "bu-no-further-action",
+      "name": "A no further action disposal"
+    },
+    "location": {
+      "latitude": "53.282042",
+      "street": {
+        "id": 1509191,
+        "name": "On or near River View Terrace"
+      },
+      "longitude": "-3.803381"
+    },
+    "operation": null,
+    "officer_defined_ethnicity": "Other",
+    "type": "Person search",
+    "operation_name": null,
+    "object_of_search": "Controlled drugs"
+  },
+  {
+    "age_range": "18-24",
+    "outcome": "A no further action disposal",
+    "involved_person": true,
     "self_defined_ethnicity": "White - English/Welsh/Scottish/Northern Irish/British",
     "gender": "Male",
     "legislation": "Misuse of Drugs Act 1971 (section 23)",
     "outcome_linked_to_object_of_search": false,
-    "datetime": "2026-07-28T01:07:00+00:00",
+    "datetime": "2026-07-13T20:29:00+00:00",
     "removal_of_more_than_outer_clothing": false,
     "outcome_object": {
       "id": "bu-no-further-action",
@@ -7252,57 +7280,85 @@
     "object_of_search": "Controlled drugs"
   },
   {
-    "age_range": "over 34",
+    "age_range": "18-24",
     "outcome": "Community resolution",
     "involved_person": true,
-    "self_defined_ethnicity": "Black/African/Caribbean/Black British - African",
-    "gender": "Male",
-    "legislation": "Misuse of Drugs Act 1971 (section 23)",
+    "self_defined_ethnicity": "White - English/Welsh/Scottish/Northern Irish/British",
+    "gender": null,
+    "legislation": "Police and Criminal Evidence Act 1984 (section 1)",
     "outcome_linked_to_object_of_search": true,
-    "datetime": "2026-07-14T02:28:00+00:00",
+    "datetime": "2026-07-13T22:40:00+00:00",
     "removal_of_more_than_outer_clothing": false,
     "outcome_object": {
       "id": "bu-community-resolution",
       "name": "Community resolution"
     },
     "location": {
-      "latitude": "53.063504",
+      "latitude": "53.047233",
       "street": {
-        "id": 1515635,
-        "name": "On or near B5433"
+        "id": 1516287,
+        "name": "On or near Duke Street"
       },
-      "longitude": "-3.030224"
+      "longitude": "-2.996436"
     },
     "operation": null,
-    "officer_defined_ethnicity": "Black",
+    "officer_defined_ethnicity": "White",
     "type": "Person search",
     "operation_name": null,
-    "object_of_search": "Controlled drugs"
+    "object_of_search": "Stolen goods"
   },
   {
-    "age_range": "25-34",
+    "age_range": "18-24",
+    "outcome": "Community resolution",
+    "involved_person": true,
+    "self_defined_ethnicity": "White - English/Welsh/Scottish/Northern Irish/British",
+    "gender": "Male",
+    "legislation": "Police and Criminal Evidence Act 1984 (section 1)",
+    "outcome_linked_to_object_of_search": true,
+    "datetime": "2026-07-14T00:25:00+00:00",
+    "removal_of_more_than_outer_clothing": false,
+    "outcome_object": {
+      "id": "bu-community-resolution",
+      "name": "Community resolution"
+    },
+    "location": {
+      "latitude": "53.047233",
+      "street": {
+        "id": 1516287,
+        "name": "On or near Duke Street"
+      },
+      "longitude": "-2.996436"
+    },
+    "operation": null,
+    "officer_defined_ethnicity": "White",
+    "type": "Person search",
+    "operation_name": null,
+    "object_of_search": "Stolen goods"
+  },
+  {
+    "age_range": "10-17",
     "outcome": "A no further action disposal",
     "involved_person": true,
     "self_defined_ethnicity": "White - English/Welsh/Scottish/Northern Irish/British",
     "gender": "Male",
     "legislation": "Misuse of Drugs Act 1971 (section 23)",
     "outcome_linked_to_object_of_search": false,
-    "datetime": "2026-07-14T03:19:00+00:00",
+    "datetime": "2026-07-28T01:07:00+00:00",
     "removal_of_more_than_outer_clothing": false,
     "outcome_object": {
       "id": "bu-no-further-action",
       "name": "A no further action disposal"
     },
     "location": {
-      "latitude": "53.002349",
+      "latitude": "53.222725",
       "street": {
-        "id": 1515193,
-        "name": "On or near Ruabon Road"
+        "id": 1507224,
+        "name": "On or near Parking Area"
       },
-      "longitude": "-3.042522"
+      "longitude": "-4.134659"
     },
     "operation": null,
-    "officer_defined_ethnicity": "White",
+    "officer_defined_ethnicity": "Other",
     "type": "Person search",
     "operation_name": null,
     "object_of_search": "Controlled drugs"
@@ -8426,61 +8482,5 @@
     "type": "Person search",
     "operation_name": null,
     "object_of_search": "Controlled drugs"
-  },
-  {
-    "age_range": "10-17",
-    "outcome": "A no further action disposal",
-    "involved_person": true,
-    "self_defined_ethnicity": "White - English/Welsh/Scottish/Northern Irish/British",
-    "gender": "Male",
-    "legislation": "Misuse of Drugs Act 1971 (section 23)",
-    "outcome_linked_to_object_of_search": false,
-    "datetime": "2026-07-14T03:07:00+00:00",
-    "removal_of_more_than_outer_clothing": false,
-    "outcome_object": {
-      "id": "bu-no-further-action",
-      "name": "A no further action disposal"
-    },
-    "location": {
-      "latitude": "53.289192",
-      "street": {
-        "id": 1509895,
-        "name": "On or near Kyffin Close"
-      },
-      "longitude": "-3.705444"
-    },
-    "operation": null,
-    "officer_defined_ethnicity": "White",
-    "type": "Person search",
-    "operation_name": null,
-    "object_of_search": "Evidence of offences under the Act"
-  },
-  {
-    "age_range": "18-24",
-    "outcome": "Arrest",
-    "involved_person": true,
-    "self_defined_ethnicity": "White - English/Welsh/Scottish/Northern Irish/British",
-    "gender": "Male",
-    "legislation": "Police and Criminal Evidence Act 1984 (section 1)",
-    "outcome_linked_to_object_of_search": false,
-    "datetime": "2026-07-14T04:04:00+00:00",
-    "removal_of_more_than_outer_clothing": false,
-    "outcome_object": {
-      "id": "bu-arrest",
-      "name": "Arrest"
-    },
-    "location": {
-      "latitude": "53.047302",
-      "street": {
-        "id": 1514507,
-        "name": "On or near Rhos Berse Road"
-      },
-      "longitude": "-3.057241"
-    },
-    "operation": null,
-    "officer_defined_ethnicity": "Other",
-    "type": "Person search",
-    "operation_name": null,
-    "object_of_search": "Stolen goods"
   }
 ]

@@ -8641,25 +8641,25 @@
     },
     {
       "month": "2026-07",
-      "national_crime_count": 539947,
+      "national_crime_count": 531870,
       "national_crime_categories": {
-        "anti-social-behaviour": 97905,
-        "bicycle-theft": 5093,
-        "burglary": 17275,
-        "criminal-damage-arson": 34534,
-        "drugs": 15030,
-        "other-theft": 35360,
-        "possession-of-weapons": 5261,
-        "public-order": 39210,
-        "robbery": 7502,
-        "shoplifting": 46856,
-        "theft-from-the-person": 8134,
-        "vehicle-crime": 24975,
-        "violent-crime": 191693,
-        "other-crime": 11119
+        "anti-social-behaviour": 96650,
+        "bicycle-theft": 5031,
+        "burglary": 17081,
+        "criminal-damage-arson": 33861,
+        "drugs": 14741,
+        "other-theft": 34818,
+        "possession-of-weapons": 5170,
+        "public-order": 38704,
+        "robbery": 7435,
+        "shoplifting": 46323,
+        "theft-from-the-person": 8089,
+        "vehicle-crime": 24508,
+        "violent-crime": 188491,
+        "other-crime": 10968
       },
       "national_stop_and_search_count": 31490,
-      "national_crime_rate_per_1000": 8.451,
+      "national_crime_rate_per_1000": 8.324,
       "methodology": "full-force-boundary",
       "coverage_mix": {
         "full-force-boundary": 44
@@ -8724,9 +8724,9 @@
           "crime_rate_per_1000": 12.07
         },
         "essex": {
-          "crime_count": 16500,
+          "crime_count": 8414,
           "stop_and_search_count": 1158,
-          "crime_rate_per_1000": 8.492
+          "crime_rate_per_1000": 4.33
         },
         "gloucestershire": {
           "crime_count": 28,
@@ -8889,7 +8889,7 @@
           "crime_rate_per_1000": 6.321
         }
       },
-      "rolling_12mo_crime_count": 5610447,
+      "rolling_12mo_crime_count": 5602370,
       "rolling_window_months": 12
     }
   ],
