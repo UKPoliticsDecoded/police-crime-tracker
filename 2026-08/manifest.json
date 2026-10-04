@@ -1,0 +1,77 @@
+{
+  "month": "2026-08",
+  "started_at": "2026-10-04T21:14:48.618186+00:00",
+  "forces_total": 44,
+  "forces_with_geo": 44,
+  "forces_succeeded": [
+    "avon-and-somerset",
+    "bedfordshire",
+    "cambridgeshire",
+    "cheshire",
+    "city-of-london",
+    "cleveland",
+    "cumbria",
+    "derbyshire",
+    "devon-and-cornwall",
+    "dorset",
+    "durham",
+    "essex",
+    "gloucestershire",
+    "greater-manchester",
+    "gwent",
+    "hampshire",
+    "dyfed-powys",
+    "hertfordshire",
+    "humberside",
+    "kent",
+    "lancashire",
+    "leicestershire",
+    "lincolnshire",
+    "merseyside",
+    "metropolitan",
+    "norfolk",
+    "north-wales",
+    "north-yorkshire",
+    "northamptonshire",
+    "northumbria",
+    "nottinghamshire",
+    "northern-ireland",
+    "south-wales",
+    "south-yorkshire",
+    "staffordshire",
+    "suffolk",
+    "surrey",
+    "sussex",
+    "thames-valley",
+    "warwickshire",
+    "west-mercia",
+    "west-midlands",
+    "west-yorkshire",
+    "wiltshire"
+  ],
+  "forces_failed": [],
+  "forces_skipped_no_geo": [],
+  "errors": [
+    {
+      "stage": "crimes",
+      "force": "dyfed-powys",
+      "error": "One or more boundary polygons exceeded the API's per-request crime cap (503); coverage is incomplete for this force/month."
+    },
+    {
+      "stage": "stop_and_search",
+      "force": "dyfed-powys",
+      "error": "One or more boundary polygons exceeded the API's per-request cap (503); coverage is incomplete for this force/month."
+    },
+    {
+      "stage": "crimes",
+      "force": "northumbria",
+      "error": "One or more boundary polygons exceeded the API's per-request crime cap (503); coverage is incomplete for this force/month."
+    },
+    {
+      "stage": "stop_and_search",
+      "force": "northumbria",
+      "error": "One or more boundary polygons exceeded the API's per-request cap (503); coverage is incomplete for this force/month."
+    }
+  ],
+  "finished_at": "2026-10-04T21:32:48.782806+00:00"
+}

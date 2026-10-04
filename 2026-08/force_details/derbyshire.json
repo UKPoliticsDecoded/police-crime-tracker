@@ -1,0 +1,33 @@
+{
+  "id": "derbyshire",
+  "name": "Derbyshire Constabulary",
+  "description": null,
+  "url": "http://www.derbyshire.police.uk/",
+  "telephone": "101",
+  "engagement_methods": [
+    {
+      "type": "rss",
+      "title": "RSS",
+      "description": "<p>Read our latest news via RSS.</p>",
+      "url": "https://www.derbyshire.police.uk/news/derbyshire/news/GetNewsRss/"
+    },
+    {
+      "type": "twitter",
+      "title": "Twitter",
+      "description": "<p>Follow us on Twitter.</p>",
+      "url": "http://www.twitter.com/DerbysPolice"
+    },
+    {
+      "type": "youtube",
+      "title": "YouTube",
+      "description": "<p>Watch our videos on YouTube.</p>",
+      "url": "http://www.youtube.com/DerbyshireConst"
+    },
+    {
+      "type": "facebook",
+      "title": "Facebook",
+      "description": "<p>Find us on Facebook.</p>",
+      "url": "http://www.facebook.com/derbyshireconstabulary"
+    }
+  ]
+}
