@@ -140,32 +140,32 @@
     "object_of_search": "Offensive weapons"
   },
   {
-    "age_range": "18-24",
+    "age_range": null,
     "outcome": "A no further action disposal",
     "involved_person": true,
-    "self_defined_ethnicity": "Asian/Asian British - Pakistani",
+    "self_defined_ethnicity": "White - Gypsy or Irish Traveller",
     "gender": "Male",
     "legislation": "Police and Criminal Evidence Act 1984 (section 1)",
     "outcome_linked_to_object_of_search": null,
-    "datetime": "2026-06-11T19:24:00+00:00",
+    "datetime": "2026-06-01T17:32:00+00:00",
     "removal_of_more_than_outer_clothing": false,
     "outcome_object": {
       "id": "bu-no-further-action",
       "name": "A no further action disposal"
     },
     "location": {
-      "latitude": "52.449527",
+      "latitude": "52.480810",
       "street": {
-        "id": 1644115,
-        "name": "On or near Amberley Road"
+        "id": 1642221,
+        "name": "On or near Bordesley Close"
       },
-      "longitude": "-1.801480"
+      "longitude": "-1.835632"
     },
     "operation": null,
-    "officer_defined_ethnicity": "Asian",
+    "officer_defined_ethnicity": "White",
     "type": "Person search",
     "operation_name": null,
-    "object_of_search": "Offensive weapons"
+    "object_of_search": "Stolen goods"
   },
   {
     "age_range": null,
@@ -2098,34 +2098,6 @@
     "type": "Person search",
     "operation_name": null,
     "object_of_search": "Controlled drugs"
-  },
-  {
-    "age_range": null,
-    "outcome": "A no further action disposal",
-    "involved_person": true,
-    "self_defined_ethnicity": "White - Gypsy or Irish Traveller",
-    "gender": "Male",
-    "legislation": "Police and Criminal Evidence Act 1984 (section 1)",
-    "outcome_linked_to_object_of_search": null,
-    "datetime": "2026-06-01T17:32:00+00:00",
-    "removal_of_more_than_outer_clothing": false,
-    "outcome_object": {
-      "id": "bu-no-further-action",
-      "name": "A no further action disposal"
-    },
-    "location": {
-      "latitude": "52.480810",
-      "street": {
-        "id": 1642221,
-        "name": "On or near Bordesley Close"
-      },
-      "longitude": "-1.835632"
-    },
-    "operation": null,
-    "officer_defined_ethnicity": "White",
-    "type": "Person search",
-    "operation_name": null,
-    "object_of_search": "Stolen goods"
   },
   {
     "age_range": null,
@@ -28636,6 +28608,34 @@
         "name": "On or near Farcroft Avenue"
       },
       "longitude": "-1.946518"
+    },
+    "operation": null,
+    "officer_defined_ethnicity": "Asian",
+    "type": "Person search",
+    "operation_name": null,
+    "object_of_search": "Offensive weapons"
+  },
+  {
+    "age_range": "18-24",
+    "outcome": "A no further action disposal",
+    "involved_person": true,
+    "self_defined_ethnicity": "Asian/Asian British - Pakistani",
+    "gender": "Male",
+    "legislation": "Police and Criminal Evidence Act 1984 (section 1)",
+    "outcome_linked_to_object_of_search": null,
+    "datetime": "2026-06-11T19:24:00+00:00",
+    "removal_of_more_than_outer_clothing": false,
+    "outcome_object": {
+      "id": "bu-no-further-action",
+      "name": "A no further action disposal"
+    },
+    "location": {
+      "latitude": "52.449527",
+      "street": {
+        "id": 1644115,
+        "name": "On or near Amberley Road"
+      },
+      "longitude": "-1.801480"
     },
     "operation": null,
     "officer_defined_ethnicity": "Asian",
@@ -70224,34 +70224,6 @@
     "object_of_search": "Offensive weapons"
   },
   {
-    "age_range": "over 34",
-    "outcome": "A no further action disposal",
-    "involved_person": true,
-    "self_defined_ethnicity": "Asian/Asian British - Indian",
-    "gender": "Male",
-    "legislation": "Misuse of Drugs Act 1971 (section 23)",
-    "outcome_linked_to_object_of_search": true,
-    "datetime": "2026-06-23T22:25:00+00:00",
-    "removal_of_more_than_outer_clothing": false,
-    "outcome_object": {
-      "id": "bu-no-further-action",
-      "name": "A no further action disposal"
-    },
-    "location": {
-      "latitude": "52.478654",
-      "street": {
-        "id": 2343737,
-        "name": "Grand Central (Tram Stop)"
-      },
-      "longitude": "-1.899298"
-    },
-    "operation": null,
-    "officer_defined_ethnicity": "Asian",
-    "type": "Person search",
-    "operation_name": null,
-    "object_of_search": "Controlled drugs"
-  },
-  {
     "age_range": "18-24",
     "outcome": "A no further action disposal",
     "involved_person": true,
@@ -70614,6 +70586,34 @@
     "type": "Person search",
     "operation_name": null,
     "object_of_search": "Anything to threaten or harm anyone"
+  },
+  {
+    "age_range": "over 34",
+    "outcome": "A no further action disposal",
+    "involved_person": true,
+    "self_defined_ethnicity": "Asian/Asian British - Indian",
+    "gender": "Male",
+    "legislation": "Misuse of Drugs Act 1971 (section 23)",
+    "outcome_linked_to_object_of_search": true,
+    "datetime": "2026-06-23T22:25:00+00:00",
+    "removal_of_more_than_outer_clothing": false,
+    "outcome_object": {
+      "id": "bu-no-further-action",
+      "name": "A no further action disposal"
+    },
+    "location": {
+      "latitude": "52.478654",
+      "street": {
+        "id": 2343737,
+        "name": "Grand Central (Tram Stop)"
+      },
+      "longitude": "-1.899298"
+    },
+    "operation": null,
+    "officer_defined_ethnicity": "Asian",
+    "type": "Person search",
+    "operation_name": null,
+    "object_of_search": "Controlled drugs"
   },
   {
     "age_range": "25-34",
