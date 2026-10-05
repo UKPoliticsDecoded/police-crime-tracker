@@ -1,6 +1,6 @@
 {
   "month": "2026-07",
-  "started_at": "2026-09-28T04:53:51.871283+00:00",
+  "started_at": "2026-10-05T04:25:26.124705+00:00",
   "forces_total": 44,
   "forces_with_geo": 44,
   "forces_succeeded": [
@@ -54,11 +54,6 @@
   "errors": [
     {
       "stage": "crimes",
-      "force": "essex",
-      "error": "One or more boundary polygons exceeded the API's per-request crime cap (503); coverage is incomplete for this force/month."
-    },
-    {
-      "stage": "crimes",
       "force": "dyfed-powys",
       "error": "One or more boundary polygons exceeded the API's per-request crime cap (503); coverage is incomplete for this force/month."
     },
@@ -78,5 +73,5 @@
       "error": "One or more boundary polygons exceeded the API's per-request cap (503); coverage is incomplete for this force/month."
     }
   ],
-  "finished_at": "2026-09-28T05:22:34.334543+00:00"
+  "finished_at": "2026-10-05T04:44:13.789274+00:00"
 }

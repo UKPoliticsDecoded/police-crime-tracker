@@ -24,7 +24,7 @@
       "population": 1823077,
       "population_source_year": "2025",
       "crime_rate_per_1000": 8.904,
-      "stop_and_search_count": 13
+      "stop_and_search_count": 478
     },
     "bedfordshire": {
       "name": "Bedfordshire Police",
@@ -49,7 +49,7 @@
       "population": 754383,
       "population_source_year": "2025",
       "crime_rate_per_1000": 8.06,
-      "stop_and_search_count": 13
+      "stop_and_search_count": 14
     },
     "cambridgeshire": {
       "name": "Cambridgeshire Constabulary",
@@ -74,7 +74,7 @@
       "population": 941740,
       "population_source_year": "2025",
       "crime_rate_per_1000": 8.203,
-      "stop_and_search_count": 8
+      "stop_and_search_count": 200
     },
     "cheshire": {
       "name": "Cheshire Constabulary",
@@ -126,12 +126,12 @@
     "cleveland": {
       "name": "Cleveland Police",
       "coverage": "full-force-boundary",
-      "crime_count": 8746,
+      "crime_count": 8748,
       "crime_categories": {
-        "anti-social-behaviour": 1155,
+        "anti-social-behaviour": 1156,
         "bicycle-theft": 49,
         "burglary": 386,
-        "criminal-damage-arson": 820,
+        "criminal-damage-arson": 821,
         "drugs": 219,
         "other-theft": 388,
         "possession-of-weapons": 97,
@@ -145,7 +145,7 @@
       },
       "population": 599150,
       "population_source_year": "2025",
-      "crime_rate_per_1000": 14.597,
+      "crime_rate_per_1000": 14.601,
       "stop_and_search_count": 1
     },
     "cumbria": {
@@ -221,7 +221,7 @@
       "population": 1843469,
       "population_source_year": "2025",
       "crime_rate_per_1000": 7.29,
-      "stop_and_search_count": 426
+      "stop_and_search_count": 434
     },
     "dorset": {
       "name": "Dorset Police",
@@ -276,27 +276,26 @@
     "essex": {
       "name": "Essex Police",
       "coverage": "full-force-boundary",
-      "coverage_degraded": true,
-      "crime_count": 8414,
+      "crime_count": 16500,
       "crime_categories": {
-        "anti-social-behaviour": 1310,
-        "bicycle-theft": 44,
-        "burglary": 201,
-        "criminal-damage-arson": 564,
-        "drugs": 230,
-        "other-theft": 578,
-        "possession-of-weapons": 101,
-        "public-order": 573,
-        "robbery": 95,
-        "shoplifting": 547,
-        "theft-from-the-person": 47,
-        "vehicle-crime": 403,
-        "violent-crime": 3550,
-        "other-crime": 171
+        "anti-social-behaviour": 2565,
+        "bicycle-theft": 106,
+        "burglary": 395,
+        "criminal-damage-arson": 1240,
+        "drugs": 519,
+        "other-theft": 1121,
+        "possession-of-weapons": 192,
+        "public-order": 1080,
+        "robbery": 162,
+        "shoplifting": 1080,
+        "theft-from-the-person": 92,
+        "vehicle-crime": 872,
+        "violent-crime": 6754,
+        "other-crime": 322
       },
       "population": 1943003,
       "population_source_year": "2025",
-      "crime_rate_per_1000": 4.33,
+      "crime_rate_per_1000": 8.492,
       "stop_and_search_count": 1158
     },
     "gloucestershire": {
@@ -440,9 +439,9 @@
     "humberside": {
       "name": "Humberside Police",
       "coverage": "full-force-boundary",
-      "crime_count": 9346,
+      "crime_count": 9348,
       "crime_categories": {
-        "anti-social-behaviour": 829,
+        "anti-social-behaviour": 830,
         "bicycle-theft": 129,
         "burglary": 412,
         "criminal-damage-arson": 777,
@@ -454,12 +453,12 @@
         "shoplifting": 1028,
         "theft-from-the-person": 19,
         "vehicle-crime": 286,
-        "violent-crime": 3766,
+        "violent-crime": 3767,
         "other-crime": 303
       },
       "population": 965113,
       "population_source_year": "2025",
-      "crime_rate_per_1000": 9.684,
+      "crime_rate_per_1000": 9.686,
       "stop_and_search_count": 233
     },
     "kent": {
@@ -490,7 +489,7 @@
     "lancashire": {
       "name": "Lancashire Constabulary",
       "coverage": "full-force-boundary",
-      "crime_count": 15222,
+      "crime_count": 15223,
       "crime_categories": {
         "anti-social-behaviour": 2938,
         "bicycle-theft": 103,
@@ -504,12 +503,12 @@
         "shoplifting": 980,
         "theft-from-the-person": 55,
         "vehicle-crime": 597,
-        "violent-crime": 6119,
+        "violent-crime": 6120,
         "other-crime": 368
       },
       "population": 1615860,
       "population_source_year": "2025",
-      "crime_rate_per_1000": 9.42,
+      "crime_rate_per_1000": 9.421,
       "stop_and_search_count": 20
     },
     "leicestershire": {
@@ -635,49 +634,56 @@
       "population": 945427,
       "population_source_year": "2025",
       "crime_rate_per_1000": 6.877,
-      "stop_and_search_count": 1
+      "stop_and_search_count": 5
     },
     "north-wales": {
       "name": "North Wales Police",
       "coverage": "full-force-boundary",
-      "crime_count": 6624,
+      "crime_count": 5589,
       "crime_categories": {
         "anti-social-behaviour": 1540,
-        "bicycle-theft": 25,
-        "burglary": 147,
-        "criminal-damage-arson": 550,
-        "drugs": 149,
-        "other-theft": 349,
-        "possession-of-weapons": 56,
-        "public-order": 495,
-        "robbery": 14,
-        "shoplifting": 472,
+        "bicycle-theft": 21,
+        "burglary": 124,
+        "criminal-damage-arson": 450,
+        "drugs": 120,
+        "other-theft": 281,
+        "possession-of-weapons": 48,
+        "public-order": 375,
+        "robbery": 12,
+        "shoplifting": 370,
         "theft-from-the-person": 5,
-        "vehicle-crime": 82,
-        "violent-crime": 2635,
-        "other-crime": 105
+        "vehicle-crime": 68,
+        "violent-crime": 2088,
+        "other-crime": 87
       },
       "population": 695501,
       "population_source_year": "2025",
-      "crime_rate_per_1000": 9.524,
+      "crime_rate_per_1000": 8.036,
       "stop_and_search_count": 303
     },
     "north-yorkshire": {
       "name": "North Yorkshire Police",
       "coverage": "full-force-boundary",
-      "crime_count": 39,
+      "crime_count": 6072,
       "crime_categories": {
-        "anti-social-behaviour": 9,
-        "burglary": 3,
-        "criminal-damage-arson": 4,
-        "drugs": 2,
-        "other-theft": 1,
-        "violent-crime": 17,
-        "other-crime": 3
+        "anti-social-behaviour": 1585,
+        "bicycle-theft": 93,
+        "burglary": 183,
+        "criminal-damage-arson": 466,
+        "drugs": 97,
+        "other-theft": 275,
+        "possession-of-weapons": 57,
+        "public-order": 405,
+        "robbery": 34,
+        "shoplifting": 504,
+        "theft-from-the-person": 16,
+        "vehicle-crime": 144,
+        "violent-crime": 2102,
+        "other-crime": 111
       },
       "population": 848251,
       "population_source_year": "2025",
-      "crime_rate_per_1000": 0.046,
+      "crime_rate_per_1000": 7.158,
       "stop_and_search_count": 6
     },
     "northamptonshire": {
@@ -810,7 +816,7 @@
     "south-yorkshire": {
       "name": "South Yorkshire Police",
       "coverage": "full-force-boundary",
-      "crime_count": 14939,
+      "crime_count": 14940,
       "crime_categories": {
         "anti-social-behaviour": 2663,
         "bicycle-theft": 86,
@@ -824,12 +830,12 @@
         "shoplifting": 1549,
         "theft-from-the-person": 59,
         "vehicle-crime": 752,
-        "violent-crime": 5192,
+        "violent-crime": 5193,
         "other-crime": 365
       },
       "population": 1434478,
       "population_source_year": "2025",
-      "crime_rate_per_1000": 10.414,
+      "crime_rate_per_1000": 10.415,
       "stop_and_search_count": 6
     },
     "staffordshire": {
@@ -880,7 +886,7 @@
       "population": 789850,
       "population_source_year": "2025",
       "crime_rate_per_1000": 5.982,
-      "stop_and_search_count": 1
+      "stop_and_search_count": 8
     },
     "surrey": {
       "name": "Surrey Police",
@@ -980,7 +986,7 @@
       "population": 644021,
       "population_source_year": "2025",
       "crime_rate_per_1000": 7.717,
-      "stop_and_search_count": 9
+      "stop_and_search_count": 10
     },
     "west-mercia": {
       "name": "West Mercia Police",
@@ -1035,16 +1041,16 @@
     "west-yorkshire": {
       "name": "West Yorkshire Police",
       "coverage": "full-force-boundary",
-      "crime_count": 26392,
+      "crime_count": 26396,
       "crime_categories": {
-        "anti-social-behaviour": 3229,
+        "anti-social-behaviour": 3232,
         "bicycle-theft": 148,
         "burglary": 1168,
         "criminal-damage-arson": 2033,
         "drugs": 884,
         "other-theft": 1682,
         "possession-of-weapons": 224,
-        "public-order": 2141,
+        "public-order": 2142,
         "robbery": 402,
         "shoplifting": 2167,
         "theft-from-the-person": 196,
@@ -1054,7 +1060,7 @@
       },
       "population": 2424324,
       "population_source_year": "2025",
-      "crime_rate_per_1000": 10.886,
+      "crime_rate_per_1000": 10.888,
       "stop_and_search_count": 1494
     },
     "wiltshire": {
@@ -1085,95 +1091,95 @@
   },
   "national": {
     "forces_included": 44,
-    "crime_count": 531870,
-    "crime_count_raw_sum": 532806,
-    "duplicate_records_removed": 936,
+    "crime_count": 544953,
+    "crime_count_raw_sum": 545900,
+    "duplicate_records_removed": 947,
     "crime_categories": {
-      "anti-social-behaviour": 96650,
-      "bicycle-theft": 5031,
-      "burglary": 17081,
-      "criminal-damage-arson": 33861,
-      "drugs": 14741,
-      "other-theft": 34818,
-      "possession-of-weapons": 5170,
-      "public-order": 38704,
-      "robbery": 7435,
-      "shoplifting": 46323,
-      "theft-from-the-person": 8089,
-      "vehicle-crime": 24508,
-      "violent-crime": 188491,
-      "other-crime": 10968
+      "anti-social-behaviour": 99486,
+      "bicycle-theft": 5182,
+      "burglary": 17432,
+      "criminal-damage-arson": 34897,
+      "drugs": 15096,
+      "other-theft": 35566,
+      "possession-of-weapons": 5310,
+      "public-order": 39495,
+      "robbery": 7534,
+      "shoplifting": 47258,
+      "theft-from-the-person": 8150,
+      "vehicle-crime": 25105,
+      "violent-crime": 193233,
+      "other-crime": 11209
     },
     "crime_category_rates_per_1000": {
-      "anti-social-behaviour": 1.5127,
-      "bicycle-theft": 0.0787,
-      "burglary": 0.2673,
-      "criminal-damage-arson": 0.53,
-      "drugs": 0.2307,
-      "other-theft": 0.5449,
-      "possession-of-weapons": 0.0809,
-      "public-order": 0.6057,
-      "robbery": 0.1164,
-      "shoplifting": 0.725,
-      "theft-from-the-person": 0.1266,
-      "vehicle-crime": 0.3836,
-      "violent-crime": 2.95,
-      "other-crime": 0.1717
+      "anti-social-behaviour": 1.557,
+      "bicycle-theft": 0.0811,
+      "burglary": 0.2728,
+      "criminal-damage-arson": 0.5462,
+      "drugs": 0.2363,
+      "other-theft": 0.5566,
+      "possession-of-weapons": 0.0831,
+      "public-order": 0.6181,
+      "robbery": 0.1179,
+      "shoplifting": 0.7396,
+      "theft-from-the-person": 0.1276,
+      "vehicle-crime": 0.3929,
+      "violent-crime": 3.0243,
+      "other-crime": 0.1754
     },
-    "stop_and_search_count": 31490,
+    "stop_and_search_count": 32168,
     "coverage_mix": {
       "full-force-boundary": 44
     },
     "methodology": "full-force-boundary",
     "population_covered": 63894362,
     "population_source_year": "2025",
-    "crime_rate_per_1000": 8.324,
+    "crime_rate_per_1000": 8.529,
     "regions": {
       "england": {
         "forces_included": 39,
-        "crime_count": 487799,
+        "crime_count": 501917,
         "crime_categories": {
-          "anti-social-behaviour": 86327,
-          "bicycle-theft": 4802,
-          "burglary": 16001,
-          "criminal-damage-arson": 30044,
-          "drugs": 13462,
-          "other-theft": 32619,
-          "possession-of-weapons": 4791,
-          "public-order": 35131,
-          "robbery": 7195,
-          "shoplifting": 43520,
-          "theft-from-the-person": 7955,
-          "vehicle-crime": 23392,
-          "violent-crime": 172538,
-          "other-crime": 10022
+          "anti-social-behaviour": 89163,
+          "bicycle-theft": 4957,
+          "burglary": 16375,
+          "criminal-damage-arson": 31180,
+          "drugs": 13846,
+          "other-theft": 33435,
+          "possession-of-weapons": 4939,
+          "public-order": 36042,
+          "robbery": 7296,
+          "shoplifting": 44557,
+          "theft-from-the-person": 8016,
+          "vehicle-crime": 24003,
+          "violent-crime": 177827,
+          "other-crime": 10281
         },
-        "stop_and_search_count": 31174,
+        "stop_and_search_count": 31852,
         "population_covered": 58819181,
-        "crime_rate_per_1000": 8.293
+        "crime_rate_per_1000": 8.533
       },
       "wales": {
         "forces_included": 4,
-        "crime_count": 31051,
+        "crime_count": 30016,
         "crime_categories": {
           "anti-social-behaviour": 5702,
-          "bicycle-theft": 177,
-          "burglary": 815,
-          "criminal-damage-arson": 2618,
-          "drugs": 663,
-          "other-theft": 1533,
-          "possession-of-weapons": 256,
-          "public-order": 3485,
-          "robbery": 184,
-          "shoplifting": 2096,
+          "bicycle-theft": 173,
+          "burglary": 792,
+          "criminal-damage-arson": 2518,
+          "drugs": 634,
+          "other-theft": 1465,
+          "possession-of-weapons": 248,
+          "public-order": 3365,
+          "robbery": 182,
+          "shoplifting": 1994,
           "theft-from-the-person": 110,
-          "vehicle-crime": 910,
-          "violent-crime": 11837,
-          "other-crime": 665
+          "vehicle-crime": 896,
+          "violent-crime": 11290,
+          "other-crime": 647
         },
         "stop_and_search_count": 310,
         "population_covered": 3175181,
-        "crime_rate_per_1000": 9.779
+        "crime_rate_per_1000": 9.453
       },
       "northern-ireland": {
         "forces_included": 1,
