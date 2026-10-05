@@ -8895,25 +8895,25 @@
     },
     {
       "month": "2026-08",
-      "national_crime_count": 513702,
+      "national_crime_count": 495736,
       "national_crime_categories": {
-        "anti-social-behaviour": 94974,
-        "bicycle-theft": 4590,
-        "burglary": 17749,
-        "criminal-damage-arson": 33950,
-        "drugs": 16416,
-        "other-theft": 33881,
-        "possession-of-weapons": 5163,
-        "public-order": 35587,
-        "robbery": 7043,
-        "shoplifting": 47996,
-        "theft-from-the-person": 7163,
-        "vehicle-crime": 25198,
-        "violent-crime": 174171,
-        "other-crime": 9821
+        "anti-social-behaviour": 91061,
+        "bicycle-theft": 4458,
+        "burglary": 17279,
+        "criminal-damage-arson": 32503,
+        "drugs": 16026,
+        "other-theft": 32854,
+        "possession-of-weapons": 5002,
+        "public-order": 34399,
+        "robbery": 6933,
+        "shoplifting": 46453,
+        "theft-from-the-person": 7101,
+        "vehicle-crime": 24789,
+        "violent-crime": 167420,
+        "other-crime": 9458
       },
-      "national_stop_and_search_count": 19314,
-      "national_crime_rate_per_1000": 8.04,
+      "national_stop_and_search_count": 19056,
+      "national_crime_rate_per_1000": 7.759,
       "methodology": "full-force-boundary",
       "coverage_mix": {
         "full-force-boundary": 44
@@ -9048,19 +9048,19 @@
           "crime_rate_per_1000": 10.472
         },
         "norfolk": {
-          "crime_count": 6171,
+          "crime_count": 0,
           "stop_and_search_count": 5,
-          "crime_rate_per_1000": 6.527
+          "crime_rate_per_1000": 0.0
         },
         "north-wales": {
-          "crime_count": 6031,
-          "stop_and_search_count": 258,
-          "crime_rate_per_1000": 8.671
+          "crime_count": 0,
+          "stop_and_search_count": 0,
+          "crime_rate_per_1000": 0.0
         },
         "north-yorkshire": {
-          "crime_count": 5811,
+          "crime_count": 0,
           "stop_and_search_count": 10,
-          "crime_rate_per_1000": 6.851
+          "crime_rate_per_1000": 0.0
         },
         "northamptonshire": {
           "crime_count": 6787,
@@ -9143,7 +9143,7 @@
           "crime_rate_per_1000": 5.905
         }
       },
-      "rolling_12mo_crime_count": 5637309,
+      "rolling_12mo_crime_count": 5619343,
       "rolling_window_months": 12
     }
   ],

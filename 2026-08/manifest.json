@@ -1,6 +1,6 @@
 {
   "month": "2026-08",
-  "started_at": "2026-10-04T21:14:48.618186+00:00",
+  "started_at": "2026-10-05T04:47:42.608853+00:00",
   "forces_total": 44,
   "forces_with_geo": 44,
   "forces_succeeded": [
@@ -64,6 +64,26 @@
     },
     {
       "stage": "crimes",
+      "force": "norfolk",
+      "error": "One or more boundary polygons exceeded the API's per-request crime cap (503); coverage is incomplete for this force/month."
+    },
+    {
+      "stage": "crimes",
+      "force": "north-wales",
+      "error": "One or more boundary polygons exceeded the API's per-request crime cap (503); coverage is incomplete for this force/month."
+    },
+    {
+      "stage": "stop_and_search",
+      "force": "north-wales",
+      "error": "One or more boundary polygons exceeded the API's per-request cap (503); coverage is incomplete for this force/month."
+    },
+    {
+      "stage": "crimes",
+      "force": "north-yorkshire",
+      "error": "One or more boundary polygons exceeded the API's per-request crime cap (503); coverage is incomplete for this force/month."
+    },
+    {
+      "stage": "crimes",
       "force": "northumbria",
       "error": "One or more boundary polygons exceeded the API's per-request crime cap (503); coverage is incomplete for this force/month."
     },
@@ -73,5 +93,5 @@
       "error": "One or more boundary polygons exceeded the API's per-request cap (503); coverage is incomplete for this force/month."
     }
   ],
-  "finished_at": "2026-10-04T21:32:48.782806+00:00"
+  "finished_at": "2026-10-05T05:11:01.980458+00:00"
 }
