@@ -3,17 +3,17 @@
     "category": "anti-social-behaviour",
     "location_type": "Force",
     "location": {
-      "latitude": "51.886966",
+      "latitude": "51.930816",
       "street": {
-        "id": 1570972,
-        "name": "On or near Naunton Crescent"
+        "id": 1573294,
+        "name": "On or near Shepherds Way"
       },
-      "longitude": "-2.075260"
+      "longitude": "-1.717893"
     },
     "context": "",
     "outcome_status": null,
     "persistent_id": "",
-    "id": 136675585,
+    "id": 136382281,
     "location_subtype": "",
     "month": "2026-07"
   },
@@ -31,7 +31,7 @@
     "context": "",
     "outcome_status": null,
     "persistent_id": "",
-    "id": 136676036,
+    "id": 136674967,
     "location_subtype": "",
     "month": "2026-07"
   },
@@ -75,6 +75,42 @@
     "category": "anti-social-behaviour",
     "location_type": "Force",
     "location": {
+      "latitude": "51.837799",
+      "street": {
+        "id": 1563623,
+        "name": "On or near Parking Area"
+      },
+      "longitude": "-2.635874"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 136271100,
+    "location_subtype": "",
+    "month": "2026-07"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.694336",
+      "street": {
+        "id": 1573389,
+        "name": "On or near West Allcourt"
+      },
+      "longitude": "-1.696765"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 136381497,
+    "location_subtype": "",
+    "month": "2026-07"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
       "latitude": "51.645365",
       "street": {
         "id": 1608814,
@@ -111,78 +147,6 @@
     "category": "anti-social-behaviour",
     "location_type": "Force",
     "location": {
-      "latitude": "51.837799",
-      "street": {
-        "id": 1563623,
-        "name": "On or near Parking Area"
-      },
-      "longitude": "-2.635874"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 136271019,
-    "location_subtype": "",
-    "month": "2026-07"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.694336",
-      "street": {
-        "id": 1573389,
-        "name": "On or near West Allcourt"
-      },
-      "longitude": "-1.696765"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 136381497,
-    "location_subtype": "",
-    "month": "2026-07"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.886966",
-      "street": {
-        "id": 1570972,
-        "name": "On or near Naunton Crescent"
-      },
-      "longitude": "-2.075260"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 136674967,
-    "location_subtype": "",
-    "month": "2026-07"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.837799",
-      "street": {
-        "id": 1563623,
-        "name": "On or near Parking Area"
-      },
-      "longitude": "-2.635874"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 136271100,
-    "location_subtype": "",
-    "month": "2026-07"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
       "latitude": "51.930816",
       "street": {
         "id": 1573294,
@@ -193,25 +157,7 @@
     "context": "",
     "outcome_status": null,
     "persistent_id": "",
-    "id": 136381333,
-    "location_subtype": "",
-    "month": "2026-07"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.930816",
-      "street": {
-        "id": 1573294,
-        "name": "On or near Shepherds Way"
-      },
-      "longitude": "-1.717893"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 136382281,
+    "id": 136382275,
     "location_subtype": "",
     "month": "2026-07"
   },
@@ -237,6 +183,60 @@
     "category": "anti-social-behaviour",
     "location_type": "Force",
     "location": {
+      "latitude": "51.886966",
+      "street": {
+        "id": 1570972,
+        "name": "On or near Naunton Crescent"
+      },
+      "longitude": "-2.075260"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 136675585,
+    "location_subtype": "",
+    "month": "2026-07"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.886966",
+      "street": {
+        "id": 1570972,
+        "name": "On or near Naunton Crescent"
+      },
+      "longitude": "-2.075260"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 136676036,
+    "location_subtype": "",
+    "month": "2026-07"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.837799",
+      "street": {
+        "id": 1563623,
+        "name": "On or near Parking Area"
+      },
+      "longitude": "-2.635874"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 136271019,
+    "location_subtype": "",
+    "month": "2026-07"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
       "latitude": "51.930816",
       "street": {
         "id": 1573294,
@@ -247,7 +247,7 @@
     "context": "",
     "outcome_status": null,
     "persistent_id": "",
-    "id": 136382275,
+    "id": 136381333,
     "location_subtype": "",
     "month": "2026-07"
   },
@@ -339,6 +339,27 @@
     "category": "violent-crime",
     "location_type": "Force",
     "location": {
+      "latitude": "51.675484",
+      "street": {
+        "id": 1571953,
+        "name": "On or near Station Road"
+      },
+      "longitude": "-2.021327"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Under investigation",
+      "date": "2026-07"
+    },
+    "persistent_id": "a715d774171345cb35465a7dd9bb023d6c90f61dccbc50455b346871bb6ffe92",
+    "id": 136383091,
+    "location_subtype": "",
+    "month": "2026-07"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
       "latitude": "51.668428",
       "street": {
         "id": 1571479,
@@ -353,6 +374,27 @@
     },
     "persistent_id": "cb95d6344fdaf3da145e7c7bd49d561c4fdbc2749b6a2f7f6bc77d88e1f7462d",
     "id": 136380591,
+    "location_subtype": "",
+    "month": "2026-07"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.645365",
+      "street": {
+        "id": 1608814,
+        "name": "On or near The Back"
+      },
+      "longitude": "-2.670421"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Under investigation",
+      "date": "2026-07"
+    },
+    "persistent_id": "2504ff2814ae1d8094636d97caf2a3bf3503a03293e88bfa5a79e19628c4022d",
+    "id": 136390195,
     "location_subtype": "",
     "month": "2026-07"
   },
@@ -423,41 +465,20 @@
     "category": "violent-crime",
     "location_type": "Force",
     "location": {
-      "latitude": "51.675484",
+      "latitude": "51.845678",
       "street": {
-        "id": 1571953,
-        "name": "On or near Station Road"
+        "id": 1566870,
+        "name": "On or near Lewisham Road"
       },
-      "longitude": "-2.021327"
+      "longitude": "-2.247382"
     },
     "context": "",
     "outcome_status": {
       "category": "Under investigation",
       "date": "2026-07"
     },
-    "persistent_id": "a715d774171345cb35465a7dd9bb023d6c90f61dccbc50455b346871bb6ffe92",
-    "id": 136383091,
-    "location_subtype": "",
-    "month": "2026-07"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.645365",
-      "street": {
-        "id": 1608814,
-        "name": "On or near The Back"
-      },
-      "longitude": "-2.670421"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Under investigation",
-      "date": "2026-07"
-    },
-    "persistent_id": "2504ff2814ae1d8094636d97caf2a3bf3503a03293e88bfa5a79e19628c4022d",
-    "id": 136390195,
+    "persistent_id": "f6bb53e8402f370dbf36c3cb9b36b1e1ba4dc0cacdd425a481e8e5c87f937c13",
+    "id": 136668727,
     "location_subtype": "",
     "month": "2026-07"
   },
@@ -479,27 +500,6 @@
     },
     "persistent_id": "146c48a441c3900b6ab38ad9f14bd13b5e6e7316c9ce08afe2362626c15d406b",
     "id": 136562150,
-    "location_subtype": "",
-    "month": "2026-07"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.845678",
-      "street": {
-        "id": 1566870,
-        "name": "On or near Lewisham Road"
-      },
-      "longitude": "-2.247382"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Under investigation",
-      "date": "2026-07"
-    },
-    "persistent_id": "f6bb53e8402f370dbf36c3cb9b36b1e1ba4dc0cacdd425a481e8e5c87f937c13",
-    "id": 136668727,
     "location_subtype": "",
     "month": "2026-07"
   },
