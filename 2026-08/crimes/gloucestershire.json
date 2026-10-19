@@ -13,61 +13,7 @@
     "context": "",
     "outcome_status": null,
     "persistent_id": "",
-    "id": 137100068,
-    "location_subtype": "",
-    "month": "2026-08"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.886966",
-      "street": {
-        "id": 1570972,
-        "name": "On or near Naunton Crescent"
-      },
-      "longitude": "-2.075260"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
     "id": 137099757,
-    "location_subtype": "",
-    "month": "2026-08"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.633983",
-      "street": {
-        "id": 1563601,
-        "name": "On or near Buttington Terrace"
-      },
-      "longitude": "-2.654287"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 136866197,
-    "location_subtype": "",
-    "month": "2026-08"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.811645",
-      "street": {
-        "id": 1563581,
-        "name": "On or near Reddings Lane"
-      },
-      "longitude": "-2.656829"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 136866066,
     "location_subtype": "",
     "month": "2026-08"
   },
@@ -93,6 +39,42 @@
     "category": "anti-social-behaviour",
     "location_type": "Force",
     "location": {
+      "latitude": "51.886966",
+      "street": {
+        "id": 1570972,
+        "name": "On or near Naunton Crescent"
+      },
+      "longitude": "-2.075260"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 137100002,
+    "location_subtype": "",
+    "month": "2026-08"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.811645",
+      "street": {
+        "id": 1563581,
+        "name": "On or near Reddings Lane"
+      },
+      "longitude": "-2.656829"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 136866066,
+    "location_subtype": "",
+    "month": "2026-08"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
       "latitude": "51.930816",
       "street": {
         "id": 1573294,
@@ -111,6 +93,24 @@
     "category": "anti-social-behaviour",
     "location_type": "Force",
     "location": {
+      "latitude": "51.633983",
+      "street": {
+        "id": 1563601,
+        "name": "On or near Buttington Terrace"
+      },
+      "longitude": "-2.654287"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 136866197,
+    "location_subtype": "",
+    "month": "2026-08"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
       "latitude": "51.886966",
       "street": {
         "id": 1570972,
@@ -121,7 +121,7 @@
     "context": "",
     "outcome_status": null,
     "persistent_id": "",
-    "id": 137100002,
+    "id": 137100068,
     "location_subtype": "",
     "month": "2026-08"
   },
@@ -171,20 +171,20 @@
     "category": "violent-crime",
     "location_type": "Force",
     "location": {
-      "latitude": "51.992740",
+      "latitude": "51.853022",
       "street": {
-        "id": 1573519,
-        "name": "On or near Whitley Way"
+        "id": 1565773,
+        "name": "On or near Seven Arces Close"
       },
-      "longitude": "-1.687430"
+      "longitude": "-2.318796"
     },
     "context": "",
     "outcome_status": {
       "category": "Under investigation",
       "date": "2026-08"
     },
-    "persistent_id": "de7d048c348c6b3409d326d5a7fa5f45419c963787cb1ce693dbfa9e98b5c784",
-    "id": 137324589,
+    "persistent_id": "4bba0a5121a302257153771aeb601e746e83920a2cbd17a3d65ab39a6bdc8850",
+    "id": 136840249,
     "location_subtype": "",
     "month": "2026-08"
   },
@@ -213,20 +213,20 @@
     "category": "violent-crime",
     "location_type": "Force",
     "location": {
-      "latitude": "51.992740",
+      "latitude": "51.737707",
       "street": {
-        "id": 1573519,
-        "name": "On or near Whitley Way"
+        "id": 1563647,
+        "name": "On or near Whittington Close"
       },
-      "longitude": "-1.687430"
+      "longitude": "-2.632860"
     },
     "context": "",
     "outcome_status": {
       "category": "Under investigation",
       "date": "2026-08"
     },
-    "persistent_id": "2f5ab7d4ba40301c211bfbcf41cfaf8b056ff6bb6d4b505d0721becd5ea7d8f6",
-    "id": 137324588,
+    "persistent_id": "0af5cabd0c62c8ec743e86e959dc86844c83fed34bc68e83a8cb03ace4ed809a",
+    "id": 136888549,
     "location_subtype": "",
     "month": "2026-08"
   },
@@ -276,20 +276,62 @@
     "category": "violent-crime",
     "location_type": "Force",
     "location": {
-      "latitude": "51.889213",
+      "latitude": "51.992740",
       "street": {
-        "id": 1570955,
-        "name": "On or near Waterfield Close"
+        "id": 1573519,
+        "name": "On or near Whitley Way"
       },
-      "longitude": "-2.076513"
+      "longitude": "-1.687430"
     },
     "context": "",
     "outcome_status": {
-      "category": "Unable to prosecute suspect",
+      "category": "Under investigation",
       "date": "2026-08"
     },
-    "persistent_id": "4c67d628ecf5903d7a8f3b58342f79515bc32df822b4c7e5091e0250a7cb8f28",
-    "id": 137155298,
+    "persistent_id": "de7d048c348c6b3409d326d5a7fa5f45419c963787cb1ce693dbfa9e98b5c784",
+    "id": 137324589,
+    "location_subtype": "",
+    "month": "2026-08"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.737707",
+      "street": {
+        "id": 1563647,
+        "name": "On or near Whittington Close"
+      },
+      "longitude": "-2.632860"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Under investigation",
+      "date": "2026-08"
+    },
+    "persistent_id": "93b752dbdde246c29afba245b3f24f5e8d765d68a2ab3c961770fea64b2a4162",
+    "id": 136888568,
+    "location_subtype": "",
+    "month": "2026-08"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.992740",
+      "street": {
+        "id": 1573519,
+        "name": "On or near Whitley Way"
+      },
+      "longitude": "-1.687430"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Under investigation",
+      "date": "2026-08"
+    },
+    "persistent_id": "2f5ab7d4ba40301c211bfbcf41cfaf8b056ff6bb6d4b505d0721becd5ea7d8f6",
+    "id": 137324588,
     "location_subtype": "",
     "month": "2026-08"
   },
@@ -339,27 +381,6 @@
     "category": "violent-crime",
     "location_type": "Force",
     "location": {
-      "latitude": "51.853022",
-      "street": {
-        "id": 1565773,
-        "name": "On or near Seven Arces Close"
-      },
-      "longitude": "-2.318796"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Under investigation",
-      "date": "2026-08"
-    },
-    "persistent_id": "4bba0a5121a302257153771aeb601e746e83920a2cbd17a3d65ab39a6bdc8850",
-    "id": 136840249,
-    "location_subtype": "",
-    "month": "2026-08"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
       "latitude": "51.993054",
       "street": {
         "id": 1567180,
@@ -381,41 +402,20 @@
     "category": "violent-crime",
     "location_type": "Force",
     "location": {
-      "latitude": "51.737707",
+      "latitude": "51.889213",
       "street": {
-        "id": 1563647,
-        "name": "On or near Whittington Close"
+        "id": 1570955,
+        "name": "On or near Waterfield Close"
       },
-      "longitude": "-2.632860"
+      "longitude": "-2.076513"
     },
     "context": "",
     "outcome_status": {
-      "category": "Under investigation",
+      "category": "Unable to prosecute suspect",
       "date": "2026-08"
     },
-    "persistent_id": "93b752dbdde246c29afba245b3f24f5e8d765d68a2ab3c961770fea64b2a4162",
-    "id": 136888568,
-    "location_subtype": "",
-    "month": "2026-08"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.737707",
-      "street": {
-        "id": 1563647,
-        "name": "On or near Whittington Close"
-      },
-      "longitude": "-2.632860"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Under investigation",
-      "date": "2026-08"
-    },
-    "persistent_id": "0af5cabd0c62c8ec743e86e959dc86844c83fed34bc68e83a8cb03ace4ed809a",
-    "id": 136888549,
+    "persistent_id": "4c67d628ecf5903d7a8f3b58342f79515bc32df822b4c7e5091e0250a7cb8f28",
+    "id": 137155298,
     "location_subtype": "",
     "month": "2026-08"
   },
