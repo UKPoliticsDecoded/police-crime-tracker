@@ -21,6 +21,24 @@
     "category": "anti-social-behaviour",
     "location_type": "Force",
     "location": {
+      "latitude": "51.930816",
+      "street": {
+        "id": 1573294,
+        "name": "On or near Shepherds Way"
+      },
+      "longitude": "-1.717893"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 135722226,
+    "location_subtype": "",
+    "month": "2026-06"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
       "latitude": "51.698338",
       "street": {
         "id": 1573457,
@@ -54,20 +72,23 @@
     "month": "2026-06"
   },
   {
-    "category": "anti-social-behaviour",
+    "category": "burglary",
     "location_type": "Force",
     "location": {
-      "latitude": "51.930816",
+      "latitude": "51.853822",
       "street": {
-        "id": 1573294,
-        "name": "On or near Shepherds Way"
+        "id": 1563828,
+        "name": "On or near Upper Stowfield Road"
       },
-      "longitude": "-1.717893"
+      "longitude": "-2.596114"
     },
     "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 135722226,
+    "outcome_status": {
+      "category": "Under investigation",
+      "date": "2026-06"
+    },
+    "persistent_id": "472e7af5763359e3e75632c761c597815da6660e8f97c990441bb96644802ed1",
+    "id": 135699141,
     "location_subtype": "",
     "month": "2026-06"
   },
@@ -89,27 +110,6 @@
     },
     "persistent_id": "2a40fae277dac31700c6145ed568027927fe5a85c53a23d63df17b9cc8aed7ff",
     "id": 135701438,
-    "location_subtype": "",
-    "month": "2026-06"
-  },
-  {
-    "category": "burglary",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.853822",
-      "street": {
-        "id": 1563828,
-        "name": "On or near Upper Stowfield Road"
-      },
-      "longitude": "-2.596114"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Under investigation",
-      "date": "2026-06"
-    },
-    "persistent_id": "472e7af5763359e3e75632c761c597815da6660e8f97c990441bb96644802ed1",
-    "id": 135699141,
     "location_subtype": "",
     "month": "2026-06"
   },
