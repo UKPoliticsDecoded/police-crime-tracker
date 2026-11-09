@@ -1,0 +1,39 @@
+{
+  "id": "greater-manchester",
+  "name": "Greater Manchester Police",
+  "description": null,
+  "url": "http://www.gmp.police.uk",
+  "telephone": "101",
+  "engagement_methods": [
+    {
+      "type": "facebook",
+      "title": "facebook",
+      "description": null,
+      "url": "http://www.facebook.com/GtrManchesterPolice"
+    },
+    {
+      "type": "twitter",
+      "title": "twitter",
+      "description": null,
+      "url": "http://twitter.com/gmpolice"
+    },
+    {
+      "type": "youtube",
+      "title": "youtube",
+      "description": null,
+      "url": "http://www.youtube.com/user/gmpolice"
+    },
+    {
+      "type": "flickr",
+      "title": "flickr",
+      "description": null,
+      "url": "http://www.flickr.com/photos/gmpolice1"
+    },
+    {
+      "type": "mobile",
+      "title": "mobile",
+      "description": null,
+      "url": "http://www.gmp.police.uk/content/index.html?ReadForm"
+    }
+  ]
+}
