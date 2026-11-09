@@ -1,5 +1,33 @@
 [
   {
+    "age_range": "25-34",
+    "outcome": "",
+    "involved_person": true,
+    "self_defined_ethnicity": "Other ethnic group - Not stated",
+    "gender": "Other",
+    "legislation": "Misuse of Drugs Act 1971 (section 23)",
+    "outcome_linked_to_object_of_search": true,
+    "datetime": "2026-07-11T20:00:00+00:00",
+    "removal_of_more_than_outer_clothing": false,
+    "outcome_object": {
+      "id": "",
+      "name": ""
+    },
+    "location": {
+      "latitude": "52.634279",
+      "street": {
+        "id": 1738013,
+        "name": "On or near Applegate"
+      },
+      "longitude": "-1.138369"
+    },
+    "operation": null,
+    "officer_defined_ethnicity": "Asian",
+    "type": "Person search",
+    "operation_name": null,
+    "object_of_search": "Controlled drugs"
+  },
+  {
     "age_range": "10-17",
     "outcome": "Arrest",
     "involved_person": true,
@@ -3302,34 +3330,6 @@
     "type": "Person and Vehicle search",
     "operation_name": null,
     "object_of_search": null
-  },
-  {
-    "age_range": "25-34",
-    "outcome": "",
-    "involved_person": true,
-    "self_defined_ethnicity": "Other ethnic group - Not stated",
-    "gender": "Other",
-    "legislation": "Misuse of Drugs Act 1971 (section 23)",
-    "outcome_linked_to_object_of_search": true,
-    "datetime": "2026-07-11T20:00:00+00:00",
-    "removal_of_more_than_outer_clothing": false,
-    "outcome_object": {
-      "id": "",
-      "name": ""
-    },
-    "location": {
-      "latitude": "52.634279",
-      "street": {
-        "id": 1738013,
-        "name": "On or near Applegate"
-      },
-      "longitude": "-1.138369"
-    },
-    "operation": null,
-    "officer_defined_ethnicity": "Asian",
-    "type": "Person search",
-    "operation_name": null,
-    "object_of_search": "Controlled drugs"
   },
   {
     "age_range": "18-24",

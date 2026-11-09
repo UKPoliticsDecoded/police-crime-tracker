@@ -3,29 +3,85 @@
     "age_range": "18-24",
     "outcome": "A no further action disposal",
     "involved_person": true,
-    "self_defined_ethnicity": "Other ethnic group - Not stated",
+    "self_defined_ethnicity": null,
     "gender": "Male",
-    "legislation": "Police and Criminal Evidence Act 1984 (section 1)",
+    "legislation": "Misuse of Drugs Act 1971 (section 23)",
     "outcome_linked_to_object_of_search": true,
-    "datetime": "2026-07-22T18:57:00+00:00",
+    "datetime": "2026-07-30T15:20:00+00:00",
     "removal_of_more_than_outer_clothing": null,
     "outcome_object": {
       "id": "bu-no-further-action",
       "name": "A no further action disposal"
     },
     "location": {
-      "latitude": "53.867697",
+      "latitude": "53.702488",
       "street": {
-        "id": 2114383,
-        "name": "On or near Victoria Avenue"
+        "id": 2110124,
+        "name": "On or near Freakfield Lane"
       },
-      "longitude": "-1.668526"
+      "longitude": "-1.733277"
+    },
+    "operation": false,
+    "officer_defined_ethnicity": null,
+    "type": "Person search",
+    "operation_name": null,
+    "object_of_search": "Controlled drugs"
+  },
+  {
+    "age_range": "18-24",
+    "outcome": "Arrest",
+    "involved_person": true,
+    "self_defined_ethnicity": "White - English/Welsh/Scottish/Northern Irish/British",
+    "gender": "Male",
+    "legislation": "Misuse of Drugs Act 1971 (section 23)",
+    "outcome_linked_to_object_of_search": true,
+    "datetime": "2026-07-23T18:03:00+00:00",
+    "removal_of_more_than_outer_clothing": null,
+    "outcome_object": {
+      "id": "bu-arrest",
+      "name": "Arrest"
+    },
+    "location": {
+      "latitude": "53.828753",
+      "street": {
+        "id": 2111393,
+        "name": "On or near Orchard Grove"
+      },
+      "longitude": "-1.718180"
     },
     "operation": false,
     "officer_defined_ethnicity": null,
     "type": "Person and Vehicle search",
     "operation_name": null,
-    "object_of_search": null
+    "object_of_search": "Controlled drugs"
+  },
+  {
+    "age_range": "18-24",
+    "outcome": "Caution (simple or conditional)",
+    "involved_person": true,
+    "self_defined_ethnicity": null,
+    "gender": "Male",
+    "legislation": "Misuse of Drugs Act 1971 (section 23)",
+    "outcome_linked_to_object_of_search": true,
+    "datetime": "2026-07-02T12:50:00+00:00",
+    "removal_of_more_than_outer_clothing": null,
+    "outcome_object": {
+      "id": "bu-caution",
+      "name": "Caution (simple or conditional)"
+    },
+    "location": {
+      "latitude": "53.682877",
+      "street": {
+        "id": 2114178,
+        "name": "On or near Spring Place Gardens"
+      },
+      "longitude": "-1.672037"
+    },
+    "operation": true,
+    "officer_defined_ethnicity": null,
+    "type": "Person search",
+    "operation_name": null,
+    "object_of_search": "Controlled drugs"
   },
   {
     "age_range": "25-34",
@@ -5568,62 +5624,6 @@
     "operation": false,
     "officer_defined_ethnicity": null,
     "type": "Person and Vehicle search",
-    "operation_name": null,
-    "object_of_search": "Controlled drugs"
-  },
-  {
-    "age_range": "18-24",
-    "outcome": "Arrest",
-    "involved_person": true,
-    "self_defined_ethnicity": "White - English/Welsh/Scottish/Northern Irish/British",
-    "gender": "Male",
-    "legislation": "Misuse of Drugs Act 1971 (section 23)",
-    "outcome_linked_to_object_of_search": true,
-    "datetime": "2026-07-23T18:03:00+00:00",
-    "removal_of_more_than_outer_clothing": null,
-    "outcome_object": {
-      "id": "bu-arrest",
-      "name": "Arrest"
-    },
-    "location": {
-      "latitude": "53.828753",
-      "street": {
-        "id": 2111393,
-        "name": "On or near Orchard Grove"
-      },
-      "longitude": "-1.718180"
-    },
-    "operation": false,
-    "officer_defined_ethnicity": null,
-    "type": "Person and Vehicle search",
-    "operation_name": null,
-    "object_of_search": "Controlled drugs"
-  },
-  {
-    "age_range": "18-24",
-    "outcome": "Caution (simple or conditional)",
-    "involved_person": true,
-    "self_defined_ethnicity": null,
-    "gender": "Male",
-    "legislation": "Misuse of Drugs Act 1971 (section 23)",
-    "outcome_linked_to_object_of_search": true,
-    "datetime": "2026-07-02T12:50:00+00:00",
-    "removal_of_more_than_outer_clothing": null,
-    "outcome_object": {
-      "id": "bu-caution",
-      "name": "Caution (simple or conditional)"
-    },
-    "location": {
-      "latitude": "53.682877",
-      "street": {
-        "id": 2114178,
-        "name": "On or near Spring Place Gardens"
-      },
-      "longitude": "-1.672037"
-    },
-    "operation": true,
-    "officer_defined_ethnicity": null,
-    "type": "Person search",
     "operation_name": null,
     "object_of_search": "Controlled drugs"
   },
@@ -17218,6 +17218,34 @@
     "type": "Person search",
     "operation_name": null,
     "object_of_search": null
+  },
+  {
+    "age_range": "25-34",
+    "outcome": "A no further action disposal",
+    "involved_person": true,
+    "self_defined_ethnicity": null,
+    "gender": "Male",
+    "legislation": "Misuse of Drugs Act 1971 (section 23)",
+    "outcome_linked_to_object_of_search": true,
+    "datetime": "2026-07-30T20:30:00+00:00",
+    "removal_of_more_than_outer_clothing": null,
+    "outcome_object": {
+      "id": "bu-no-further-action",
+      "name": "A no further action disposal"
+    },
+    "location": {
+      "latitude": "53.809158",
+      "street": {
+        "id": 2127527,
+        "name": "On or near Police Station"
+      },
+      "longitude": "-1.466286"
+    },
+    "operation": false,
+    "officer_defined_ethnicity": null,
+    "type": "Person and Vehicle search",
+    "operation_name": null,
+    "object_of_search": "Controlled drugs"
   },
   {
     "age_range": "10-17",
@@ -29599,6 +29627,34 @@
     "age_range": "18-24",
     "outcome": "A no further action disposal",
     "involved_person": true,
+    "self_defined_ethnicity": "Other ethnic group - Not stated",
+    "gender": "Male",
+    "legislation": "Police and Criminal Evidence Act 1984 (section 1)",
+    "outcome_linked_to_object_of_search": true,
+    "datetime": "2026-07-22T18:57:00+00:00",
+    "removal_of_more_than_outer_clothing": null,
+    "outcome_object": {
+      "id": "bu-no-further-action",
+      "name": "A no further action disposal"
+    },
+    "location": {
+      "latitude": "53.867697",
+      "street": {
+        "id": 2114383,
+        "name": "On or near Victoria Avenue"
+      },
+      "longitude": "-1.668526"
+    },
+    "operation": false,
+    "officer_defined_ethnicity": null,
+    "type": "Person and Vehicle search",
+    "operation_name": null,
+    "object_of_search": null
+  },
+  {
+    "age_range": "18-24",
+    "outcome": "A no further action disposal",
+    "involved_person": true,
     "self_defined_ethnicity": null,
     "gender": "Male",
     "legislation": "Misuse of Drugs Act 1971 (section 23)",
@@ -37880,62 +37936,6 @@
     "operation": false,
     "officer_defined_ethnicity": null,
     "type": "Person search",
-    "operation_name": null,
-    "object_of_search": "Controlled drugs"
-  },
-  {
-    "age_range": "18-24",
-    "outcome": "A no further action disposal",
-    "involved_person": true,
-    "self_defined_ethnicity": null,
-    "gender": "Male",
-    "legislation": "Misuse of Drugs Act 1971 (section 23)",
-    "outcome_linked_to_object_of_search": true,
-    "datetime": "2026-07-30T15:20:00+00:00",
-    "removal_of_more_than_outer_clothing": null,
-    "outcome_object": {
-      "id": "bu-no-further-action",
-      "name": "A no further action disposal"
-    },
-    "location": {
-      "latitude": "53.702488",
-      "street": {
-        "id": 2110124,
-        "name": "On or near Freakfield Lane"
-      },
-      "longitude": "-1.733277"
-    },
-    "operation": false,
-    "officer_defined_ethnicity": null,
-    "type": "Person search",
-    "operation_name": null,
-    "object_of_search": "Controlled drugs"
-  },
-  {
-    "age_range": "25-34",
-    "outcome": "A no further action disposal",
-    "involved_person": true,
-    "self_defined_ethnicity": null,
-    "gender": "Male",
-    "legislation": "Misuse of Drugs Act 1971 (section 23)",
-    "outcome_linked_to_object_of_search": true,
-    "datetime": "2026-07-30T20:30:00+00:00",
-    "removal_of_more_than_outer_clothing": null,
-    "outcome_object": {
-      "id": "bu-no-further-action",
-      "name": "A no further action disposal"
-    },
-    "location": {
-      "latitude": "53.809158",
-      "street": {
-        "id": 2127527,
-        "name": "On or near Police Station"
-      },
-      "longitude": "-1.466286"
-    },
-    "operation": false,
-    "officer_defined_ethnicity": null,
-    "type": "Person and Vehicle search",
     "operation_name": null,
     "object_of_search": "Controlled drugs"
   },
