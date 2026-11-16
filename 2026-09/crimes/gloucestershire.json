@@ -13,24 +13,6 @@
     "context": "",
     "outcome_status": null,
     "persistent_id": "",
-    "id": 137558933,
-    "location_subtype": "",
-    "month": "2026-09"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.930816",
-      "street": {
-        "id": 1573294,
-        "name": "On or near Shepherds Way"
-      },
-      "longitude": "-1.717893"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
     "id": 137561127,
     "location_subtype": "",
     "month": "2026-09"
@@ -50,6 +32,24 @@
     "outcome_status": null,
     "persistent_id": "",
     "id": 137559584,
+    "location_subtype": "",
+    "month": "2026-09"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.930816",
+      "street": {
+        "id": 1573294,
+        "name": "On or near Shepherds Way"
+      },
+      "longitude": "-1.717893"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 137558933,
     "location_subtype": "",
     "month": "2026-09"
   },
@@ -99,41 +99,20 @@
     "category": "violent-crime",
     "location_type": "Force",
     "location": {
-      "latitude": "51.749704",
+      "latitude": "51.622620",
       "street": {
-        "id": 1566067,
-        "name": "On or near Park Road"
+        "id": 1565242,
+        "name": "On or near Somerset Close"
       },
-      "longitude": "-2.288431"
+      "longitude": "-2.369440"
     },
     "context": "",
     "outcome_status": {
-      "category": "Under investigation",
+      "category": "Unable to prosecute suspect",
       "date": "2026-09"
     },
-    "persistent_id": "a5f1498ac3a0a9eb7ddc45111660d27a178eb3dd7ecbc23df58dabb45479dc32",
-    "id": 137647641,
-    "location_subtype": "",
-    "month": "2026-09"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.714920",
-      "street": {
-        "id": 1572462,
-        "name": "On or near Weavers Road"
-      },
-      "longitude": "-1.952259"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Under investigation",
-      "date": "2026-09"
-    },
-    "persistent_id": "981d6d0e6a61dc9b8583596a10da5cd6299676b1f612ae4b9072ba8315af9073",
-    "id": 137551605,
+    "persistent_id": "39e069e480ae9e7f78838a5400fb49713433392fe21302510654f3fc6e260719",
+    "id": 137664043,
     "location_subtype": "",
     "month": "2026-09"
   },
@@ -174,8 +153,50 @@
       "category": "Under investigation",
       "date": "2026-09"
     },
+    "persistent_id": "981d6d0e6a61dc9b8583596a10da5cd6299676b1f612ae4b9072ba8315af9073",
+    "id": 137551605,
+    "location_subtype": "",
+    "month": "2026-09"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.714920",
+      "street": {
+        "id": 1572462,
+        "name": "On or near Weavers Road"
+      },
+      "longitude": "-1.952259"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Under investigation",
+      "date": "2026-09"
+    },
     "persistent_id": "c00ad27905462ee9adec2358ed001961cd36c1740995bcde6494249e1dfc2d83",
     "id": 137549482,
+    "location_subtype": "",
+    "month": "2026-09"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.749704",
+      "street": {
+        "id": 1566067,
+        "name": "On or near Park Road"
+      },
+      "longitude": "-2.288431"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Under investigation",
+      "date": "2026-09"
+    },
+    "persistent_id": "a5f1498ac3a0a9eb7ddc45111660d27a178eb3dd7ecbc23df58dabb45479dc32",
+    "id": 137647641,
     "location_subtype": "",
     "month": "2026-09"
   },
@@ -197,27 +218,6 @@
     },
     "persistent_id": "451a6c8406aa5a5450565949b00453df3f0a6d83f1b00ed5aa23489130f5d2df",
     "id": 137903462,
-    "location_subtype": "",
-    "month": "2026-09"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.622620",
-      "street": {
-        "id": 1565242,
-        "name": "On or near Somerset Close"
-      },
-      "longitude": "-2.369440"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Unable to prosecute suspect",
-      "date": "2026-09"
-    },
-    "persistent_id": "39e069e480ae9e7f78838a5400fb49713433392fe21302510654f3fc6e260719",
-    "id": 137664043,
     "location_subtype": "",
     "month": "2026-09"
   },
