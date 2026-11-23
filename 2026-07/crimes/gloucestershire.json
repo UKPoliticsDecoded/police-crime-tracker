@@ -39,6 +39,42 @@
     "category": "anti-social-behaviour",
     "location_type": "Force",
     "location": {
+      "latitude": "51.886966",
+      "street": {
+        "id": 1570972,
+        "name": "On or near Naunton Crescent"
+      },
+      "longitude": "-2.075260"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 136676119,
+    "location_subtype": "",
+    "month": "2026-07"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.837799",
+      "street": {
+        "id": 1563623,
+        "name": "On or near Parking Area"
+      },
+      "longitude": "-2.635874"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 136271100,
+    "location_subtype": "",
+    "month": "2026-07"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
       "latitude": "51.930816",
       "street": {
         "id": 1573294,
@@ -49,7 +85,7 @@
     "context": "",
     "outcome_status": null,
     "persistent_id": "",
-    "id": 136381333,
+    "id": 136382275,
     "location_subtype": "",
     "month": "2026-07"
   },
@@ -85,43 +121,7 @@
     "context": "",
     "outcome_status": null,
     "persistent_id": "",
-    "id": 136382278,
-    "location_subtype": "",
-    "month": "2026-07"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "52.003184",
-      "street": {
-        "id": 1569240,
-        "name": "On or near Mythe Road"
-      },
-      "longitude": "-2.161766"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 136271989,
-    "location_subtype": "",
-    "month": "2026-07"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.930816",
-      "street": {
-        "id": 1573294,
-        "name": "On or near Shepherds Way"
-      },
-      "longitude": "-1.717893"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 136382275,
+    "id": 136381333,
     "location_subtype": "",
     "month": "2026-07"
   },
@@ -147,35 +147,17 @@
     "category": "anti-social-behaviour",
     "location_type": "Force",
     "location": {
-      "latitude": "51.837799",
+      "latitude": "51.930816",
       "street": {
-        "id": 1563623,
-        "name": "On or near Parking Area"
+        "id": 1573294,
+        "name": "On or near Shepherds Way"
       },
-      "longitude": "-2.635874"
+      "longitude": "-1.717893"
     },
     "context": "",
     "outcome_status": null,
     "persistent_id": "",
-    "id": 136271100,
-    "location_subtype": "",
-    "month": "2026-07"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.837799",
-      "street": {
-        "id": 1563623,
-        "name": "On or near Parking Area"
-      },
-      "longitude": "-2.635874"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 136271019,
+    "id": 136382278,
     "location_subtype": "",
     "month": "2026-07"
   },
@@ -201,17 +183,17 @@
     "category": "anti-social-behaviour",
     "location_type": "Force",
     "location": {
-      "latitude": "51.886966",
+      "latitude": "52.003184",
       "street": {
-        "id": 1570972,
-        "name": "On or near Naunton Crescent"
+        "id": 1569240,
+        "name": "On or near Mythe Road"
       },
-      "longitude": "-2.075260"
+      "longitude": "-2.161766"
     },
     "context": "",
     "outcome_status": null,
     "persistent_id": "",
-    "id": 136674967,
+    "id": 136271989,
     "location_subtype": "",
     "month": "2026-07"
   },
@@ -219,17 +201,17 @@
     "category": "anti-social-behaviour",
     "location_type": "Force",
     "location": {
-      "latitude": "51.886966",
+      "latitude": "51.837799",
       "street": {
-        "id": 1570972,
-        "name": "On or near Naunton Crescent"
+        "id": 1563623,
+        "name": "On or near Parking Area"
       },
-      "longitude": "-2.075260"
+      "longitude": "-2.635874"
     },
     "context": "",
     "outcome_status": null,
     "persistent_id": "",
-    "id": 136676119,
+    "id": 136271019,
     "location_subtype": "",
     "month": "2026-07"
   },
@@ -248,6 +230,24 @@
     "outcome_status": null,
     "persistent_id": "",
     "id": 136399777,
+    "location_subtype": "",
+    "month": "2026-07"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.886966",
+      "street": {
+        "id": 1570972,
+        "name": "On or near Naunton Crescent"
+      },
+      "longitude": "-2.075260"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 136674967,
     "location_subtype": "",
     "month": "2026-07"
   },
@@ -318,48 +318,6 @@
     "category": "violent-crime",
     "location_type": "Force",
     "location": {
-      "latitude": "51.886966",
-      "street": {
-        "id": 1570972,
-        "name": "On or near Naunton Crescent"
-      },
-      "longitude": "-2.075260"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Unable to prosecute suspect",
-      "date": "2026-07"
-    },
-    "persistent_id": "afcdd2ffefc21fb0b01045b7c992c9c6ae3332ebcf620760f5119339156d83b5",
-    "id": 136558565,
-    "location_subtype": "",
-    "month": "2026-07"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.692239",
-      "street": {
-        "id": 1564916,
-        "name": "On or near Ironmonger's Lane"
-      },
-      "longitude": "-2.434993"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Under investigation",
-      "date": "2026-07"
-    },
-    "persistent_id": "966c1a771353a55cc6406f081ed0978ef1c4803456c8805ffd1343640f32fdb5",
-    "id": 136249346,
-    "location_subtype": "",
-    "month": "2026-07"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
       "latitude": "51.675484",
       "street": {
         "id": 1571953,
@@ -374,6 +332,27 @@
     },
     "persistent_id": "a715d774171345cb35465a7dd9bb023d6c90f61dccbc50455b346871bb6ffe92",
     "id": 136383091,
+    "location_subtype": "",
+    "month": "2026-07"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.668428",
+      "street": {
+        "id": 1571479,
+        "name": "On or near Parking Area"
+      },
+      "longitude": "-2.044068"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Under investigation",
+      "date": "2026-07"
+    },
+    "persistent_id": "cb95d6344fdaf3da145e7c7bd49d561c4fdbc2749b6a2f7f6bc77d88e1f7462d",
+    "id": 136380591,
     "location_subtype": "",
     "month": "2026-07"
   },
@@ -402,20 +381,20 @@
     "category": "violent-crime",
     "location_type": "Force",
     "location": {
-      "latitude": "51.834271",
+      "latitude": "51.886966",
       "street": {
-        "id": 1566956,
-        "name": "On or near Cowley Road"
+        "id": 1570972,
+        "name": "On or near Naunton Crescent"
       },
-      "longitude": "-2.245941"
+      "longitude": "-2.075260"
     },
     "context": "",
     "outcome_status": {
-      "category": "Under investigation",
+      "category": "Unable to prosecute suspect",
       "date": "2026-07"
     },
-    "persistent_id": "0c4ee97b70313cbf804c79d5b5a0fbbf861d73bc658d8bb967b2ad24fac1eea0",
-    "id": 136566537,
+    "persistent_id": "afcdd2ffefc21fb0b01045b7c992c9c6ae3332ebcf620760f5119339156d83b5",
+    "id": 136558565,
     "location_subtype": "",
     "month": "2026-07"
   },
@@ -437,6 +416,48 @@
     },
     "persistent_id": "146c48a441c3900b6ab38ad9f14bd13b5e6e7316c9ce08afe2362626c15d406b",
     "id": 136562150,
+    "location_subtype": "",
+    "month": "2026-07"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.692239",
+      "street": {
+        "id": 1564916,
+        "name": "On or near Ironmonger's Lane"
+      },
+      "longitude": "-2.434993"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Under investigation",
+      "date": "2026-07"
+    },
+    "persistent_id": "966c1a771353a55cc6406f081ed0978ef1c4803456c8805ffd1343640f32fdb5",
+    "id": 136249346,
+    "location_subtype": "",
+    "month": "2026-07"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.834271",
+      "street": {
+        "id": 1566956,
+        "name": "On or near Cowley Road"
+      },
+      "longitude": "-2.245941"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Under investigation",
+      "date": "2026-07"
+    },
+    "persistent_id": "0c4ee97b70313cbf804c79d5b5a0fbbf861d73bc658d8bb967b2ad24fac1eea0",
+    "id": 136566537,
     "location_subtype": "",
     "month": "2026-07"
   },
@@ -479,27 +500,6 @@
     },
     "persistent_id": "c3c9d008d7e5e6b727dd099efc6996cfe0d4c95f25d4bd527bd18ac60b1e3c32",
     "id": 136267450,
-    "location_subtype": "",
-    "month": "2026-07"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.668428",
-      "street": {
-        "id": 1571479,
-        "name": "On or near Parking Area"
-      },
-      "longitude": "-2.044068"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Under investigation",
-      "date": "2026-07"
-    },
-    "persistent_id": "cb95d6344fdaf3da145e7c7bd49d561c4fdbc2749b6a2f7f6bc77d88e1f7462d",
-    "id": 136380591,
     "location_subtype": "",
     "month": "2026-07"
   },
